@@ -1,0 +1,18 @@
+{
+  "id": "airesearchreviews",
+  "name": "AI Research Reviews",
+  "baseUrl": "https://www.airesearchreviews.com",
+  "sitemapUrl": "https://www.airesearchreviews.com/sitemap.xml",
+  "fallbackRoutes": [
+    "/",
+    "/reviews",
+    "/comparisons",
+    "/best-tools",
+    "/notebooklm",
+    "/articles",
+    "/topics",
+    "/privacy-policy",
+    "/terms"
+  ],
+  "viewports": ["desktop", "mobile"]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "momentwording",
+  "name": "MomentWording",
+  "baseUrl": "https://www.momentwording.com",
+  "sitemapUrl": "https://www.momentwording.com/sitemap.xml",
+  "fallbackRoutes": [
+    "/",
+    "/work-anniversary-messages/",
+    "/work-anniversary-messages/10-year/",
+    "/work-anniversary-messages/25-year/",
+    "/retirement-message-for-coworker/",
+    "/work-anniversary-message-generator/",
+    "/privacy-policy/",
+    "/terms/"
+  ],
+  "viewports": ["desktop", "mobile"]
+}
