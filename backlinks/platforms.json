@@ -1,0 +1,1843 @@
+[
+  {
+    "id": "a-m-piano-studio",
+    "name": "A.M. Piano Studio",
+    "url": "https://www.ampianostudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.441Z"
+  },
+  {
+    "id": "a-tempo-studio-of-piano-theory-voice",
+    "name": "A Tempo! Studio of Piano, Theory & Voice",
+    "url": "https://www.a-tempostudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:04:50.000Z"
+  },
+  {
+    "id": "acoustic-bridge",
+    "name": "Acoustic Bridge",
+    "url": "https://acousticbridge.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:04:52.603Z"
+  },
+  {
+    "id": "ageinplace",
+    "name": "AgeInPlace",
+    "url": "https://ageinplace.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:04:54.936Z"
+  },
+  {
+    "id": "agnes-scott-college",
+    "name": "Agnes Scott College",
+    "url": "https://www.agnesscott.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:04:58.127Z"
+  },
+  {
+    "id": "ai-research-reviews",
+    "name": "AI Research Reviews",
+    "url": "https://www.airesearchreviews.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:05:01.612Z"
+  },
+  {
+    "id": "alex-s-piano-service",
+    "name": "Alex’s Piano Service",
+    "url": "https://www.alexanderpeppe.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:05.059Z"
+  },
+  {
+    "id": "alice-hsu-blog",
+    "name": "Alice Hsu Blog",
+    "url": "https://alicehsu.blog",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:09.076Z"
+  },
+  {
+    "id": "allen-university-library",
+    "name": "Allen University Library",
+    "url": "https://allenuniversity.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.470Z"
+  },
+  {
+    "id": "alternative-me",
+    "name": "Alternative.me",
+    "url": "https://alternative.me",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:05:13.005Z"
+  },
+  {
+    "id": "alternativeto",
+    "name": "AlternativeTo",
+    "url": "https://alternativeto.net",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:05:15.404Z"
+  },
+  {
+    "id": "amy-s-piano-studio-orlando",
+    "name": "Amy's Piano Studio Orlando",
+    "url": "https://www.amyspianostudioorlando.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:17.991Z"
+  },
+  {
+    "id": "anchorage-keyboard-teachers-association",
+    "name": "Anchorage Keyboard Teachers Association",
+    "url": "https://www.pianoakta.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:20.474Z"
+  },
+  {
+    "id": "andrew-morris-music",
+    "name": "Andrew Morris Music",
+    "url": "https://www.andymorris.co.uk",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:22.801Z"
+  },
+  {
+    "id": "annapolis-piano-lessons",
+    "name": "Annapolis Piano Lessons",
+    "url": "https://amrchappell.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:25.110Z"
+  },
+  {
+    "id": "apprater",
+    "name": "AppRater",
+    "url": "https://apprater.net",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:05:27.604Z"
+  },
+  {
+    "id": "are-na",
+    "name": "Are.na",
+    "url": "https://www.are.na",
+    "type": "other",
+    "createdAt": "2026-11-03T07:05:30.043Z"
+  },
+  {
+    "id": "arts-ed-nj-music-education-resources",
+    "name": "Arts Ed NJ Music Education Resources",
+    "url": "https://artsednj.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:32.384Z"
+  },
+  {
+    "id": "austin-peay-state-university",
+    "name": "Austin Peay State University",
+    "url": "https://www.apsu.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:34.910Z"
+  },
+  {
+    "id": "avid-open-access",
+    "name": "AVID Open Access",
+    "url": "https://avidopenaccess.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.287Z"
+  },
+  {
+    "id": "ba-piano-studio",
+    "name": "BA Piano Studio",
+    "url": "https://www.bapianostudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:37.258Z"
+  },
+  {
+    "id": "ball-state-university-music-theory-and-composition",
+    "name": "Ball State University Music Theory and Composition",
+    "url": "https://bsu.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:39.972Z"
+  },
+  {
+    "id": "barre-none",
+    "name": "Barre None",
+    "url": "https://barren.one",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:43.455Z"
+  },
+  {
+    "id": "behance",
+    "name": "Behance",
+    "url": "https://www.behance.net",
+    "type": "other",
+    "createdAt": "2026-11-03T07:05:47.253Z"
+  },
+  {
+    "id": "better-writing-skills",
+    "name": "Better Writing Skills",
+    "url": "https://betterwritingskills.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:05:49.321Z"
+  },
+  {
+    "id": "boosey-hawkes-useful-links",
+    "name": "Boosey & Hawkes Useful Links",
+    "url": "https://www.boosey.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:51.962Z"
+  },
+  {
+    "id": "borough-of-manhattan-community-college-cuny-oer",
+    "name": "Borough of Manhattan Community College (CUNY OER)",
+    "url": "https://oer.bmcc.cuny.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:54.464Z"
+  },
+  {
+    "id": "brendon-lally-music",
+    "name": "Brendon Lally Music",
+    "url": "https://brendonlally.squarespace.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:56.874Z"
+  },
+  {
+    "id": "brown-piano-studio",
+    "name": "Brown Piano Studio",
+    "url": "https://www.brownpiano.studio",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:05:59.379Z"
+  },
+  {
+    "id": "building-beats-toolbox",
+    "name": "Building Beats Toolbox",
+    "url": "https://buildingbeats.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:01.975Z"
+  },
+  {
+    "id": "carroll-cc-library",
+    "name": "Carroll CC Library",
+    "url": "https://library.carrollcc.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:04.456Z"
+  },
+  {
+    "id": "cdm",
+    "name": "CDM",
+    "url": "https://cdm.link",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:06.931Z"
+  },
+  {
+    "id": "champlin-park-bands",
+    "name": "Champlin Park Bands",
+    "url": "https://www.champlinparkbands.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:09.141Z"
+  },
+  {
+    "id": "chippewa-valley-music-teachers-association",
+    "name": "Chippewa Valley Music Teachers Association",
+    "url": "https://cvmusicteachers.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:11.774Z"
+  },
+  {
+    "id": "chisnallwood-music",
+    "name": "Chisnallwood Music",
+    "url": "https://chisnallwoodmusic.org.nz",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:14.492Z"
+  },
+  {
+    "id": "chris-pilsner",
+    "name": "Chris Pilsner",
+    "url": "https://chrispilsner.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:17.407Z"
+  },
+  {
+    "id": "clarinet-colours",
+    "name": "Clarinet Colours",
+    "url": "https://www.clarinetcolours.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:19.485Z"
+  },
+  {
+    "id": "clarinet-note-studio",
+    "name": "Clarinet Note Studio",
+    "url": "https://clarinetnotestudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:21.592Z"
+  },
+  {
+    "id": "clarinet-now",
+    "name": "Clarinet Now",
+    "url": "https://www.clarinet-now.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:23.996Z"
+  },
+  {
+    "id": "clarinet-u",
+    "name": "Clarinet U",
+    "url": "https://www.clarinetu.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:26.045Z"
+  },
+  {
+    "id": "colin-dorman",
+    "name": "Colin Dorman 理论资源页",
+    "url": "https://colindorman.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:28.579Z"
+  },
+  {
+    "id": "color-in-my-piano",
+    "name": "Color In My Piano",
+    "url": "https://colorinmypiano.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:31.004Z"
+  },
+  {
+    "id": "creative-piano-teacher",
+    "name": "Creative Piano Teacher",
+    "url": "https://creativepianoteacher.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:33.158Z"
+  },
+  {
+    "id": "ctrlalt-cc",
+    "name": "ctrlalt.cc",
+    "url": "https://ctrlalt.cc",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:35.484Z"
+  },
+  {
+    "id": "cuny-graduate-center-mina-rees-library",
+    "name": "CUNY Graduate Center, Mina Rees Library",
+    "url": "https://libguides.gc.cuny.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.153Z"
+  },
+  {
+    "id": "curlie",
+    "name": "Curlie",
+    "url": "https://curlie.org",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:39.372Z"
+  },
+  {
+    "id": "dalhousie-university-libraries",
+    "name": "Dalhousie University Libraries",
+    "url": "https://dal.ca.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.946Z"
+  },
+  {
+    "id": "dantes-io",
+    "name": "Dantes.io",
+    "url": "https://dantes.io",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.404Z"
+  },
+  {
+    "id": "david-m-glasgow-musician",
+    "name": "David M. Glasgow, Musician",
+    "url": "https://davidmglasgow.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.390Z"
+  },
+  {
+    "id": "dense-discovery",
+    "name": "Dense Discovery",
+    "url": "https://www.densediscovery.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.377Z"
+  },
+  {
+    "id": "dev",
+    "name": "DEV Community",
+    "url": "https://dev.to",
+    "type": "social",
+    "createdAt": "2026-11-03T07:06:39.360Z"
+  },
+  {
+    "id": "diigo",
+    "name": "Diigo",
+    "url": "https://www.diigo.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:39.067Z"
+  },
+  {
+    "id": "dove-music-lessons",
+    "name": "Dove Music Lessons",
+    "url": "https://www.dovemusiclessons.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.363Z"
+  },
+  {
+    "id": "east-carolina-university-school-of-music",
+    "name": "East Carolina University School of Music",
+    "url": "https://music.ecu.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.350Z"
+  },
+  {
+    "id": "edshelf",
+    "name": "edshelf",
+    "url": "https://edshelf.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.338Z"
+  },
+  {
+    "id": "emily-rach-beisel",
+    "name": "Emily Rach Beisel",
+    "url": "https://www.emilybeisel.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.350Z"
+  },
+  {
+    "id": "encore-academy-adult-piano-resources",
+    "name": "Encore Academy Adult Piano Resources",
+    "url": "https://www.encoreacademyut.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.321Z"
+  },
+  {
+    "id": "enjoy-the-harp-music-theory-resources",
+    "name": "Enjoy the Harp Music Theory Resources",
+    "url": "https://www.enjoytheharp.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.299Z"
+  },
+  {
+    "id": "example-directory",
+    "name": "Example directory",
+    "type": "directory",
+    "notes": "示例，可删除",
+    "createdAt": "2026-11-03T00:00:00+08:00"
+  },
+  {
+    "id": "example-forum",
+    "name": "Example forum",
+    "type": "forum",
+    "notes": "示例，可删除",
+    "createdAt": "2026-11-03T00:00:00+08:00"
+  },
+  {
+    "id": "flipboard",
+    "name": "Flipboard",
+    "url": "https://flipboard.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:39.339Z"
+  },
+  {
+    "id": "fmmi-music",
+    "name": "FMMI  Music",
+    "url": "http://www.fmmimusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.273Z"
+  },
+  {
+    "id": "fort-atkinson-music",
+    "name": "Fort Atkinson Music",
+    "url": "https://www.fortatkinsonmusic.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.257Z"
+  },
+  {
+    "id": "four-score-and-more",
+    "name": "Four Score and More",
+    "url": "https://fourscoreandmore.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.236Z"
+  },
+  {
+    "id": "fox-hills-music-teachers-association",
+    "name": "Fox Hills Music Teachers Association",
+    "url": "https://www.foxhillsmusicteachers.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.222Z"
+  },
+  {
+    "id": "free-alternatives-to",
+    "name": "Free Alternatives To",
+    "url": "https://freealternatives.to",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:39.054Z"
+  },
+  {
+    "id": "free-homeschool-deals",
+    "name": "Free Homeschool Deals",
+    "url": "https://www.freehomeschooldeals.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.202Z"
+  },
+  {
+    "id": "friends-of-bccc",
+    "name": "Friends of BCCC",
+    "url": "https://friendsofbccc.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.257Z"
+  },
+  {
+    "id": "gabalski-piano-studio",
+    "name": "Gabalski Piano Studio",
+    "url": "https://www.gabalskipianostudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.528Z"
+  },
+  {
+    "id": "gearnews",
+    "name": "GEARNEWS",
+    "url": "https://www.gearnews.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.041Z"
+  },
+  {
+    "id": "getmusictools",
+    "name": "GetMusicTools",
+    "url": "https://getmusictools.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:38.173Z"
+  },
+  {
+    "id": "gig-harbor-music-teachers-association",
+    "name": "Gig Harbor Music Teachers Association",
+    "url": "https://www.gigharbormusicteachers.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.144Z"
+  },
+  {
+    "id": "girl-in-blue-music",
+    "name": "Girl in Blue Music",
+    "url": "https://girlinbluemusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.121Z"
+  },
+  {
+    "id": "github",
+    "name": "GitHub 项目仓库",
+    "url": "https://github.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:39.328Z"
+  },
+  {
+    "id": "github-awesome-music-ed",
+    "name": "GitHub awesome-music-ed",
+    "url": "https://github.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.101Z"
+  },
+  {
+    "id": "github-awesome-music-production",
+    "name": "GitHub awesome-music-production",
+    "url": "https://github.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.088Z"
+  },
+  {
+    "id": "github-readme",
+    "name": "GitHub 个人资料 README",
+    "url": "https://github.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.070Z"
+  },
+  {
+    "id": "github-thekeypals-useful-links",
+    "name": "GitHub thekeypals/useful-links",
+    "url": "https://github.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.046Z"
+  },
+  {
+    "id": "github-useful-free-online-tools",
+    "name": "GitHub Useful-Free-Online-Tools",
+    "url": "https://github.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.024Z"
+  },
+  {
+    "id": "glenn-weiser",
+    "name": "Glenn Weiser",
+    "url": "https://www.celticguitarmusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.030Z"
+  },
+  {
+    "id": "guild-piano-resources",
+    "name": "Guild piano resources",
+    "url": "https://www.skillguild.co",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.993Z"
+  },
+  {
+    "id": "guitar-lessons-buffalo-bob-luterek",
+    "name": "Guitar Lessons Buffalo / Bob Luterek",
+    "url": "https://guitarlessonsbuffalo.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.020Z"
+  },
+  {
+    "id": "guitar-lessons-by-don",
+    "name": "Guitar Lessons by Don",
+    "url": "https://donpeat.duetpartner.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.009Z"
+  },
+  {
+    "id": "guitar-world",
+    "name": "Guitar World",
+    "url": "https://www.guitarworld.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.996Z"
+  },
+  {
+    "id": "guitarbased",
+    "name": "GuitarBased",
+    "url": "https://www.guitarbased.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.983Z"
+  },
+  {
+    "id": "guitars-for-kidz",
+    "name": "Guitars for Kidz",
+    "url": "https://www.guitarsforkidz.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.971Z"
+  },
+  {
+    "id": "hackernoon",
+    "name": "HackerNoon",
+    "url": "https://app.hackernoon.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.967Z"
+  },
+  {
+    "id": "hannah-adhikari",
+    "name": "Hannah Adhikari",
+    "url": "https://www.hannahehmusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.409Z"
+  },
+  {
+    "id": "hellomusictheory",
+    "name": "HelloMusicTheory",
+    "url": "https://hellomusictheory.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.925Z"
+  },
+  {
+    "id": "hilldale-public-schools",
+    "name": "Hilldale Public Schools",
+    "url": "https://www.hilldale.k12.ok.us",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.892Z"
+  },
+  {
+    "id": "hopkins-piano",
+    "name": "Hopkins Piano",
+    "url": "https://hopkinspiano.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.860Z"
+  },
+  {
+    "id": "hr-cloud",
+    "name": "HR Cloud",
+    "url": "https://www.hrcloud.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.763Z"
+  },
+  {
+    "id": "huntsville-military-band",
+    "name": "Huntsville Military Band",
+    "url": "https://www.huntsvillemilitaryband.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.317Z"
+  },
+  {
+    "id": "idaho-state-university-library",
+    "name": "Idaho State University Library",
+    "url": "https://isu.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.823Z"
+  },
+  {
+    "id": "illinois-composition-and-music-theory-beginners",
+    "name": "Illinois Composition and Music Theory Beginners",
+    "url": "https://guides.library.illinois.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.841Z"
+  },
+  {
+    "id": "imlay-city-schools",
+    "name": "Imlay City Schools",
+    "url": "https://www.icschools.us",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.810Z"
+  },
+  {
+    "id": "indiana-university-indianapolis-library",
+    "name": "Indiana University Indianapolis Library",
+    "url": "https://iu.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.179Z"
+  },
+  {
+    "id": "indie-hackers",
+    "name": "Indie Hackers",
+    "url": "https://www.indiehackers.com",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:39.304Z"
+  },
+  {
+    "id": "instructables",
+    "name": "Instructables",
+    "url": "https://www.instructables.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.791Z"
+  },
+  {
+    "id": "ism-online-learning-resources",
+    "name": "ISM Online Learning Resources",
+    "url": "https://www.ism.org",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.775Z"
+  },
+  {
+    "id": "james-madison-university-school-of-music",
+    "name": "James Madison University School of Music",
+    "url": "https://www.jmu.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.757Z"
+  },
+  {
+    "id": "jeffrey-mayo",
+    "name": "Jeffrey Mayo",
+    "url": "https://www.jeffreymayo.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.293Z"
+  },
+  {
+    "id": "jenny-clarinet",
+    "name": "Jenny Clarinet",
+    "url": "https://jennyclarinet.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:39.284Z"
+  },
+  {
+    "id": "jessica-pollack",
+    "name": "Jessica Pollack",
+    "url": "https://www.jessicapollackclarinet.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.270Z"
+  },
+  {
+    "id": "kansas-state-university",
+    "name": "Kansas State University",
+    "url": "https://www.k-state.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.738Z"
+  },
+  {
+    "id": "kelli-ray",
+    "name": "Kelli Ray",
+    "url": "https://www.kelliclarinet.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.258Z"
+  },
+  {
+    "id": "knighton-fields-primary-academy-tmet",
+    "name": "Knighton Fields Primary Academy (TMET)",
+    "url": "https://www.knighton-tmet.uk",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.724Z"
+  },
+  {
+    "id": "la-honda-music-camp-resources",
+    "name": "La Honda Music Camp Resources",
+    "url": "https://www.lahondamusiccamp.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.709Z"
+  },
+  {
+    "id": "lane-community-college",
+    "name": "Lane Community College",
+    "url": "https://www.lanecc.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.692Z"
+  },
+  {
+    "id": "launching-next",
+    "name": "Launching Next",
+    "url": "https://www.launchingnext.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.678Z"
+  },
+  {
+    "id": "launchpedia",
+    "name": "LaunchPedia",
+    "url": "https://launchpedia.co",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.666Z"
+  },
+  {
+    "id": "lawrence-university-conservatory-of-music",
+    "name": "Lawrence University Conservatory of Music",
+    "url": "https://www.lawrence.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.649Z"
+  },
+  {
+    "id": "learningreviews",
+    "name": "LearningReviews",
+    "url": "https://www.learningreviews.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.634Z"
+  },
+  {
+    "id": "leeds-conservatoire",
+    "name": "Leeds Conservatoire",
+    "url": "https://www.leedsconservatoire.ac.uk",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.622Z"
+  },
+  {
+    "id": "lehman-college-music-study-links",
+    "name": "Lehman College Music Study Links",
+    "url": "https://www.lehman.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.593Z"
+  },
+  {
+    "id": "leicestershire-music",
+    "name": "Leicestershire Music",
+    "url": "https://leicestershiremusichub.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.960Z"
+  },
+  {
+    "id": "lewis-county-music-teachers",
+    "name": "Lewis County Music Teachers",
+    "url": "https://www.lewiscountymusicteachers.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.571Z"
+  },
+  {
+    "id": "louise-mann-piano",
+    "name": "Louise Mann Piano",
+    "url": "https://www.louisemannpiano.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.555Z"
+  },
+  {
+    "id": "mad-music",
+    "name": "Mad Music",
+    "url": "https://madmusic.band",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.534Z"
+  },
+  {
+    "id": "marian-pease-piano-studio",
+    "name": "Marian Pease Piano Studio",
+    "url": "https://www.marianpeasepiano.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.522Z"
+  },
+  {
+    "id": "mark-teaches-music",
+    "name": "Mark Teaches Music",
+    "url": "https://www.markteachesmusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.950Z"
+  },
+  {
+    "id": "mason-community-arts-academy",
+    "name": "Mason Community Arts Academy",
+    "url": "https://masonacademy.gmu.edu",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.507Z"
+  },
+  {
+    "id": "mat-music-program-ps-126",
+    "name": "MAT Music Program (PS 126)",
+    "url": "https://sites.google.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.491Z"
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "url": "https://medium.com",
+    "type": "social",
+    "createdAt": "2026-11-03T07:06:39.243Z"
+  },
+  {
+    "id": "meg-s-music-studio",
+    "name": "Meg's Music Studio",
+    "url": "https://megsmusicstudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.324Z"
+  },
+  {
+    "id": "melbourne-guitar-academy",
+    "name": "Melbourne Guitar Academy",
+    "url": "https://melbourneguitaracademy.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.938Z"
+  },
+  {
+    "id": "melbourne-polytechnic-library",
+    "name": "Melbourne Polytechnic Library",
+    "url": "https://libguides.melbournepolytechnic.edu.au",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.919Z"
+  },
+  {
+    "id": "merlot",
+    "name": "MERLOT",
+    "url": "https://www.merlot.org",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.475Z"
+  },
+  {
+    "id": "merriam-music",
+    "name": "Merriam Music",
+    "url": "https://oembed.jotform.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.462Z"
+  },
+  {
+    "id": "michibago-music-teachers-association",
+    "name": "Michibago Music Teachers Association",
+    "url": "https://www.mmtawisconsin.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.451Z"
+  },
+  {
+    "id": "morgan-valley-music",
+    "name": "Morgan Valley Music",
+    "url": "https://morganvalleymusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.428Z"
+  },
+  {
+    "id": "mr-chris-music",
+    "name": "Mr. Chris Music",
+    "url": "https://www.chriswhittingtonmusic.net",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.413Z"
+  },
+  {
+    "id": "ms-steph-s-music-studio",
+    "name": "Ms. Steph's Music Studio",
+    "url": "https://www.msstephsmusicstudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.397Z"
+  },
+  {
+    "id": "mtna-websites-for-kids",
+    "name": "MTNA Websites for Kids",
+    "url": "https://www.mtna.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.387Z"
+  },
+  {
+    "id": "music-crash-courses",
+    "name": "Music Crash Courses",
+    "url": "https://musiccrashcourses.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.371Z"
+  },
+  {
+    "id": "music-ed",
+    "name": "MUSIC:ED",
+    "url": "https://www.musiceducation.global",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.358Z"
+  },
+  {
+    "id": "music-house-chicago",
+    "name": "Music House Chicago",
+    "url": "https://musichousechicago.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.353Z"
+  },
+  {
+    "id": "music-industry-toolkit",
+    "name": "Music Industry Toolkit",
+    "url": "https://themusicindustrytoolkit.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.340Z"
+  },
+  {
+    "id": "music-mark",
+    "name": "Music Mark",
+    "url": "https://www.musicmark.org.uk",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.231Z"
+  },
+  {
+    "id": "music-matters-blog",
+    "name": "Music Matters Blog",
+    "url": "https://musicmattersblog.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.328Z"
+  },
+  {
+    "id": "music-tech-hub",
+    "name": "Music Tech Hub",
+    "url": "https://musictechhub.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.316Z"
+  },
+  {
+    "id": "music-tools-index",
+    "name": "Music Tools Index",
+    "url": "https://www.musictoolsindex.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.303Z"
+  },
+  {
+    "id": "musical-u",
+    "name": "Musical U",
+    "url": "https://www.musical-u.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.289Z"
+  },
+  {
+    "id": "musicianstack",
+    "name": "MusicianStack",
+    "url": "https://musicianstack.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.272Z"
+  },
+  {
+    "id": "musicradar",
+    "name": "MusicRadar",
+    "url": "https://www.musicradar.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.252Z"
+  },
+  {
+    "id": "musictech",
+    "name": "MusicTech",
+    "url": "https://musictech.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.215Z"
+  },
+  {
+    "id": "musictech-blog",
+    "name": "MusicTech.blog",
+    "url": "https://musictech.blog",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.187Z"
+  },
+  {
+    "id": "musictheory-tech",
+    "name": "MusicTheory.tech",
+    "url": "https://www.musictheory.tech",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.169Z"
+  },
+  {
+    "id": "muted-io",
+    "name": "muted.io",
+    "url": "https://muted.io",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:37.155Z"
+  },
+  {
+    "id": "my-music-theory-links",
+    "name": "My Music Theory Links",
+    "url": "https://mymusictheory.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.137Z"
+  },
+  {
+    "id": "nav-ai-net",
+    "name": "nav-ai.net",
+    "url": "https://nav-ai.net",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.118Z"
+  },
+  {
+    "id": "neil-allison-guitar-mojo",
+    "name": "Neil Allison Guitar Mojo",
+    "url": "https://nagm.co.uk",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.925Z"
+  },
+  {
+    "id": "new-york-university-nyu-theory-resources",
+    "name": "New York University (NYU Theory Resources)",
+    "url": "https://sites.google.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.103Z"
+  },
+  {
+    "id": "nora-robbins",
+    "name": "Nora Robbins",
+    "url": "https://www.norarobbinsmusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.090Z"
+  },
+  {
+    "id": "north-carolina-music-educators-association",
+    "name": "North Carolina Music Educators Association",
+    "url": "https://www.ncmea.net",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.202Z"
+  },
+  {
+    "id": "north-dakota-music-teachers-association",
+    "name": "North Dakota Music Teachers Association",
+    "url": "https://ndmta.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.562Z"
+  },
+  {
+    "id": "nyc-guitar-school",
+    "name": "NYC Guitar School",
+    "url": "https://nycguitarschool.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.911Z"
+  },
+  {
+    "id": "oberlin-music-theory-training-resources",
+    "name": "Oberlin Music Theory Training Resources",
+    "url": "https://libguides.oberlin.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.075Z"
+  },
+  {
+    "id": "officechai",
+    "name": "OfficeChai",
+    "url": "https://officechai.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.755Z"
+  },
+  {
+    "id": "oill-piano-universe",
+    "name": "Oill Piano Universe",
+    "url": "https://www.oillpianouniverse.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.061Z"
+  },
+  {
+    "id": "omea-teacher-resources",
+    "name": "OMEA Teacher Resources",
+    "url": "https://www.omea-ohio.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.047Z"
+  },
+  {
+    "id": "online-clarinet",
+    "name": "Online Clarinet",
+    "url": "https://onlineclarinet.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:39.221Z"
+  },
+  {
+    "id": "ontario-guild-of-english-handbell-ringers-ogehr",
+    "name": "Ontario Guild of English Handbell Ringers (OGEHR)",
+    "url": "https://ogehr.ca",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:37.030Z"
+  },
+  {
+    "id": "orange-coast-college-library",
+    "name": "Orange Coast College Library",
+    "url": "https://libguides.orangecoastcollege.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.856Z"
+  },
+  {
+    "id": "owwly",
+    "name": "Owwly",
+    "url": "https://owwly.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:37.000Z"
+  },
+  {
+    "id": "palm-beach-symphony-music-education-resources",
+    "name": "Palm Beach Symphony Music Education Resources",
+    "url": "https://www.palmbeachsymphony.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.980Z"
+  },
+  {
+    "id": "park-piano-studio",
+    "name": "Park Piano Studio",
+    "url": "https://www.jeanpark.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.960Z"
+  },
+  {
+    "id": "pasadena-city-college-library",
+    "name": "Pasadena City College Library",
+    "url": "https://libguides.pasadena.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.977Z"
+  },
+  {
+    "id": "pchs-bands",
+    "name": "PCHS Bands",
+    "url": "https://www.pchsbands.net",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.210Z"
+  },
+  {
+    "id": "peerlist",
+    "name": "Peerlist",
+    "url": "https://peerlist.io",
+    "type": "launch",
+    "createdAt": "2026-11-03T07:06:36.929Z"
+  },
+  {
+    "id": "pennsylvania-music-teachers-association",
+    "name": "Pennsylvania Music Teachers Association",
+    "url": "https://www.pamusicteachers.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.888Z"
+  },
+  {
+    "id": "phyco",
+    "name": "Phyco",
+    "url": "https://phyco.org",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.847Z"
+  },
+  {
+    "id": "pianist-magazine",
+    "name": "Pianist magazine",
+    "url": "https://www.pianistmagazine.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.780Z"
+  },
+  {
+    "id": "piano-lessons-in-troy",
+    "name": "Piano Lessons in Troy",
+    "url": "https://pianolessonsintroy.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.745Z"
+  },
+  {
+    "id": "piano-lessons-in-your-home",
+    "name": "Piano Lessons In Your Home",
+    "url": "https://www.pianolessonsinyourhome.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.715Z"
+  },
+  {
+    "id": "piano-lessons-michigan",
+    "name": "Piano Lessons Michigan",
+    "url": "https://pianolessonsmichigan.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.699Z"
+  },
+  {
+    "id": "piano-pantry",
+    "name": "Piano Pantry",
+    "url": "https://pianopantry.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.687Z"
+  },
+  {
+    "id": "piano-teachers-forum-grand-rapids",
+    "name": "Piano Teachers Forum Grand Rapids",
+    "url": "https://ptfgr.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.675Z"
+  },
+  {
+    "id": "piano-technicians-guild",
+    "name": "Piano Technicians Guild",
+    "url": "https://www.ptg.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.661Z"
+  },
+  {
+    "id": "pianodao",
+    "name": "Pianodao",
+    "url": "https://pianodao.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.644Z"
+  },
+  {
+    "id": "pianos-for-people",
+    "name": "Pianos For People",
+    "url": "https://pianosforpeople.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.631Z"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest 个人资料网站",
+    "url": "https://www.pinterest.com",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:36.617Z"
+  },
+  {
+    "id": "play-music-studios-student-support",
+    "name": "Play Music Studios Student Support",
+    "url": "http://www.playmusicstudiosinc.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.602Z"
+  },
+  {
+    "id": "pro-guitar-insights",
+    "name": "Pro Guitar Insights",
+    "url": "https://www.proguitarinsights.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.898Z"
+  },
+  {
+    "id": "product-hunt",
+    "name": "Product Hunt",
+    "url": "https://www.producthunt.com",
+    "type": "launch",
+    "createdAt": "2026-11-03T07:06:36.589Z"
+  },
+  {
+    "id": "providence-school-of-music",
+    "name": "Providence School of Music",
+    "url": "https://www.providenceschoolofmusic.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.232Z"
+  },
+  {
+    "id": "public-tools",
+    "name": "Public.tools",
+    "url": "https://public.tools",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.574Z"
+  },
+  {
+    "id": "publish-your-saas",
+    "name": "Publish Your SaaS",
+    "url": "https://publishyoursaas.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.559Z"
+  },
+  {
+    "id": "r-johnson-piano-studio",
+    "name": "R. Johnson Piano Studio",
+    "url": "https://renej.us",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.543Z"
+  },
+  {
+    "id": "raindrop-io",
+    "name": "Raindrop.io",
+    "url": "https://weiwei-yang-9977.raindrop.page",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:36.527Z"
+  },
+  {
+    "id": "rentry",
+    "name": "Rentry",
+    "url": "https://rentry.co",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:36.509Z"
+  },
+  {
+    "id": "richard-s-piano-service",
+    "name": "Richard's Piano Service",
+    "url": "https://www.richardspianoservice.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.495Z"
+  },
+  {
+    "id": "rolando-gomez-learning-resources",
+    "name": "Rolando Gomez Learning Resources",
+    "url": "https://learn.rolandojgomez.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.480Z"
+  },
+  {
+    "id": "rostr-stack",
+    "name": "ROSTR Stack",
+    "url": "https://stack.rostr.cc",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.466Z"
+  },
+  {
+    "id": "roswell-music-jam",
+    "name": "Roswell Music Jam",
+    "url": "https://www.roswellmusicjam.com",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:38.888Z"
+  },
+  {
+    "id": "royale-piano",
+    "name": "Royale Piano",
+    "url": "https://www.royalepiano.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.452Z"
+  },
+  {
+    "id": "saashub",
+    "name": "SaaSHub",
+    "url": "https://www.saashub.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:39.200Z"
+  },
+  {
+    "id": "save-the-music-resource-library",
+    "name": "Save The Music Resource Library",
+    "url": "https://www.savethemusic.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.436Z"
+  },
+  {
+    "id": "sc-music-lessons",
+    "name": "SC Music Lessons",
+    "url": "https://www.scmusiclessons.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.424Z"
+  },
+  {
+    "id": "schooltools",
+    "name": "Schooltools",
+    "url": "https://www.schooltools.at",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.411Z"
+  },
+  {
+    "id": "scope-recruiting",
+    "name": "SCOPE Recruiting",
+    "url": "https://www.scoperecruiting.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.742Z"
+  },
+  {
+    "id": "sherry-xu-piano-atelier",
+    "name": "Sherry Xu Piano Atelier",
+    "url": "https://sherryxupianoatelier.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.396Z"
+  },
+  {
+    "id": "sideprojectors",
+    "name": "SideProjectors",
+    "url": "https://www.sideprojectors.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.380Z"
+  },
+  {
+    "id": "sideprojects-net",
+    "name": "sideprojects.net",
+    "url": "https://sideprojects.net",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.365Z"
+  },
+  {
+    "id": "sitelike",
+    "name": "Sitelike",
+    "url": "https://www.sitelike.org",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:39.188Z"
+  },
+  {
+    "id": "song-cage",
+    "name": "Song Cage",
+    "url": "https://songcage.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.352Z"
+  },
+  {
+    "id": "sonic-state",
+    "name": "Sonic State",
+    "url": "https://sonicstate.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.338Z"
+  },
+  {
+    "id": "sound-tech-insider",
+    "name": "Sound Tech Insider",
+    "url": "https://soundtechinsider.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.874Z"
+  },
+  {
+    "id": "speaker-deck",
+    "name": "Speaker Deck",
+    "url": "https://speakerdeck.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:36.324Z"
+  },
+  {
+    "id": "startup-collections",
+    "name": "Startup Collections",
+    "url": "https://startupcollections.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.311Z"
+  },
+  {
+    "id": "startup88",
+    "name": "Startup88",
+    "url": "https://startup88.typeform.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.296Z"
+  },
+  {
+    "id": "startupanz",
+    "name": "Startupanz",
+    "url": "https://startupanz.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.280Z"
+  },
+  {
+    "id": "startupinspire",
+    "name": "StartupInspire",
+    "url": "https://www.startupinspire.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.264Z"
+  },
+  {
+    "id": "stepwise-publications",
+    "name": "StepWise Publications",
+    "url": "https://www.stepwisepublications.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.174Z"
+  },
+  {
+    "id": "stuart-foster-piano-studio",
+    "name": "Stuart Foster Piano Studio",
+    "url": "https://www.stuartfosterpianostudio.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.383Z"
+  },
+  {
+    "id": "studio-classico",
+    "name": "Studio Classico",
+    "url": "https://studioclassico.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.251Z"
+  },
+  {
+    "id": "substack",
+    "name": "Substack",
+    "url": "https://pianogrid.substack.com",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:36.237Z"
+  },
+  {
+    "id": "synth-anatomy",
+    "name": "SYNTH ANATOMY",
+    "url": "https://synthanatomy.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.224Z"
+  },
+  {
+    "id": "tacoma-community-college-library",
+    "name": "Tacoma Community College Library",
+    "url": "https://tacomacc.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.038Z"
+  },
+  {
+    "id": "tacoma-music-teachers-association",
+    "name": "Tacoma Music Teachers Association",
+    "url": "http://www.tacomamusicteachers.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.210Z"
+  },
+  {
+    "id": "tc-piano-studios",
+    "name": "TC Piano Studios",
+    "url": "https://tcpianostudios.ca",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.499Z"
+  },
+  {
+    "id": "teachersfirst",
+    "name": "TeachersFirst",
+    "url": "https://www.teachersfirst.org",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:36.196Z"
+  },
+  {
+    "id": "telegraph",
+    "name": "Telegraph",
+    "url": "https://telegra.ph",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:36.183Z"
+  },
+  {
+    "id": "tennessee-state-university-libraries",
+    "name": "Tennessee State University Libraries",
+    "url": "https://tnstate.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.098Z"
+  },
+  {
+    "id": "the-awesomer",
+    "name": "The Awesomer",
+    "url": "https://theawesomer.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.164Z"
+  },
+  {
+    "id": "the-design-tools",
+    "name": "The Design Tools",
+    "url": "https://thedesigntools.site",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.726Z"
+  },
+  {
+    "id": "the-free-tools-directory",
+    "name": "The Free Tools Directory",
+    "url": "https://thefreetoolsdirectory.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.147Z"
+  },
+  {
+    "id": "the-guitar-classroom",
+    "name": "The Guitar Classroom",
+    "url": "https://www.theguitarclassroom.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.862Z"
+  },
+  {
+    "id": "the-music-chambers",
+    "name": "The Music Chambers",
+    "url": "https://www.clarinetgeek.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.162Z"
+  },
+  {
+    "id": "the-music-educator",
+    "name": "The Music Educator",
+    "url": "https://musiceducatorpodcast.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.134Z"
+  },
+  {
+    "id": "the-music-ninja",
+    "name": "The Music Ninja",
+    "url": "https://www.themusicninja.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.847Z"
+  },
+  {
+    "id": "the-paperless-piano-teacher",
+    "name": "The Paperless Piano Teacher",
+    "url": "https://paperlesspianoteacher.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.122Z"
+  },
+  {
+    "id": "the-piano-education-page",
+    "name": "The Piano Education Page",
+    "url": "https://www.pianoeducation.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.109Z"
+  },
+  {
+    "id": "the-tool-directory",
+    "name": "The Tool Directory",
+    "url": "https://thetooldirectory.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.092Z"
+  },
+  {
+    "id": "theclarinet-net",
+    "name": "TheClarinet.net",
+    "url": "https://www.theclarinet.net",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.151Z"
+  },
+  {
+    "id": "tmea-teaching-resources-repository",
+    "name": "TMEA Teaching Resources Repository",
+    "url": "https://www.tmea.org",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:36.075Z"
+  },
+  {
+    "id": "toolpromote",
+    "name": "ToolPromote",
+    "url": "https://toolpromote.com",
+    "type": "directory",
+    "createdAt": "2026-11-03T07:06:36.060Z"
+  },
+  {
+    "id": "topmusic",
+    "name": "TopMusic",
+    "url": "https://topmusic.co",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.048Z"
+  },
+  {
+    "id": "transylvania-university-library",
+    "name": "Transylvania University Library",
+    "url": "https://libguides.transy.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.002Z"
+  },
+  {
+    "id": "triton-college-library",
+    "name": "Triton College Library",
+    "url": "https://libraryresources.triton.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.886Z"
+  },
+  {
+    "id": "tuning-charts",
+    "name": "Tuning Charts",
+    "url": "https://tuningcharts.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.139Z"
+  },
+  {
+    "id": "ucla-music-theory-and-composition",
+    "name": "UCLA Music Theory and Composition",
+    "url": "https://guides.library.ucla.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.031Z"
+  },
+  {
+    "id": "ultimate-guitar-gear-guide",
+    "name": "Ultimate Guitar Gear Guide",
+    "url": "https://ultimateguitargearguide.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.836Z"
+  },
+  {
+    "id": "university-at-buffalo-department-of-music",
+    "name": "University at Buffalo Department of Music",
+    "url": "https://arts-sciences.buffalo.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.017Z"
+  },
+  {
+    "id": "university-of-california-irvine-uci-music",
+    "name": "University of California Irvine (UCI Music)",
+    "url": "https://www.arts.uci.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:36.003Z"
+  },
+  {
+    "id": "university-of-colorado-boulder-libraries",
+    "name": "University of Colorado Boulder Libraries",
+    "url": "https://libguides.colorado.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.793Z"
+  },
+  {
+    "id": "university-of-hartford-music-theory",
+    "name": "University of Hartford Music Theory",
+    "url": "https://libguides.hartford.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:35.989Z"
+  },
+  {
+    "id": "university-of-kentucky-libraries",
+    "name": "University of Kentucky Libraries",
+    "url": "https://libguides.uky.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:36.736Z"
+  },
+  {
+    "id": "university-of-north-georgia-department-of-music",
+    "name": "University of North Georgia Department of Music",
+    "url": "https://ung.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:35.975Z"
+  },
+  {
+    "id": "university-of-oregon-libraries",
+    "name": "University of Oregon Libraries",
+    "url": "https://researchguides.uoregon.edu",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:39.125Z"
+  },
+  {
+    "id": "university-of-southern-queensland-library",
+    "name": "University of Southern Queensland Library",
+    "url": "https://usq-qld.libguides.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.066Z"
+  },
+  {
+    "id": "university-of-virginia-library",
+    "name": "University of Virginia Library",
+    "url": "https://guides.lib.virginia.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:16:37.125Z"
+  },
+  {
+    "id": "uw-superior-music-education-and-pedagogy",
+    "name": "UW-Superior Music Education and Pedagogy",
+    "url": "https://library.uwsuper.edu",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:35.961Z"
+  },
+  {
+    "id": "velog",
+    "name": "Velog",
+    "url": "https://velog.io",
+    "type": "forum",
+    "createdAt": "2026-11-03T07:06:35.951Z"
+  },
+  {
+    "id": "vimeo",
+    "name": "Vimeo",
+    "url": "https://vimeo.com",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:35.937Z"
+  },
+  {
+    "id": "w-o-smith-music-school",
+    "name": "W.O. Smith Music School",
+    "url": "https://www.wosmith.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.824Z"
+  },
+  {
+    "id": "weiwei-blog",
+    "name": "Weiwei Blog",
+    "url": "https://yangweiwei.dev",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:35.923Z"
+  },
+  {
+    "id": "williams-clarinet-studio",
+    "name": "Williams Clarinet Studio",
+    "url": "https://williamsclarinetstudio.duetpartner.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.111Z"
+  },
+  {
+    "id": "winston-salem-suzuki-school",
+    "name": "Winston Salem Suzuki School",
+    "url": "https://www.winstonsalemsuzukischool.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:38.811Z"
+  },
+  {
+    "id": "workplace-insight",
+    "name": "Workplace Insight",
+    "url": "https://workplaceinsight.net",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.712Z"
+  },
+  {
+    "id": "world-clarinet-alliance",
+    "name": "World Clarinet Alliance",
+    "url": "https://www.wka-clarinet.org",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:39.097Z"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "url": "https://youtu.be",
+    "type": "other",
+    "createdAt": "2026-11-03T07:06:38.797Z"
+  },
+  {
+    "id": "zebra-keys",
+    "name": "Zebra Keys",
+    "url": "https://www.zebrakeys.com",
+    "type": "resource-page",
+    "createdAt": "2026-11-03T07:06:35.887Z"
+  }
+]

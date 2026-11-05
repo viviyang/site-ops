@@ -1,0 +1,461 @@
+[
+  [
+    "01a069be-e9e4-7f92-bea8-352ed1500639",
+    50,
+    {
+      "exec": 50
+    }
+  ],
+  [
+    "01a0a919-6c8a-7962-a457-f0267622fda5",
+    267,
+    {
+      "mcp__cua_repl": 32,
+      "exec": 223,
+      "exec_command": 3,
+      "request_user_input_async": 3,
+      "clock": 2,
+      "wait": 4
+    }
+  ],
+  [
+    "01a0efea-4681-7540-b443-a75633756573",
+    1915,
+    {
+      "exec": 612,
+      "mcp__cua_repl": 1268,
+      "request_user_input_async": 23,
+      "clock": 11,
+      "wait": 1
+    }
+  ],
+  [
+    "01a1384d-45ea-7ec3-b915-263331c06753",
+    448,
+    {
+      "exec": 341,
+      "mcp__cua_repl": 102,
+      "clock": 4,
+      "wait": 1
+    }
+  ],
+  [
+    "01a1387d-bc0b-7141-8866-5dac6f7bd516",
+    225,
+    {
+      "exec": 188,
+      "request_user_input_async": 2,
+      "mcp__cua_repl": 29,
+      "clock": 6
+    }
+  ],
+  [
+    "01a13984-baa1-72d0-9cb4-51bb7c4c4b05",
+    142,
+    {
+      "exec": 137,
+      "mcp__cua_repl": 1,
+      "clock": 3,
+      "request_user_input_async": 1
+    }
+  ],
+  [
+    "01a14020-1a13-7320-9953-624e93be75cc",
+    891,
+    {
+      "exec": 499,
+      "mcp__cua_repl": 356,
+      "clock": 34,
+      "wait": 2
+    }
+  ],
+  [
+    "01a14c9c-67e1-72a3-b3cb-5ac8ce0a489a",
+    318,
+    {
+      "exec": 305,
+      "request_user_input_async": 2,
+      "mcp__cua_repl": 11
+    }
+  ],
+  [
+    "01a18576-6ac5-7943-ba8b-0c1ee5144bb3",
+    205,
+    {
+      "exec": 179,
+      "request_user_input_async": 5,
+      "clock": 5,
+      "mcp__cua_repl": 16
+    }
+  ],
+  [
+    "01a185b2-e511-71f1-a737-79bad217e1b0",
+    49,
+    {
+      "exec": 32,
+      "mcp__cua_repl": 17
+    }
+  ],
+  [
+    "01a185cc-c13f-75b2-8562-b7446901505a",
+    2,
+    {
+      "exec": 2
+    }
+  ],
+  [
+    "01a186ec-e3b7-70c3-9e25-802d62a6510b",
+    13,
+    {
+      "exec": 13
+    }
+  ],
+  [
+    "01a1871b-4072-79b2-b3e4-007c9664e2bd",
+    132,
+    {
+      "exec": 122,
+      "request_user_input_async": 3,
+      "wait": 6,
+      "clock": 1
+    }
+  ],
+  [
+    "01a1874f-120a-76f0-aa3e-b7f40d964b53",
+    60,
+    {
+      "exec": 44,
+      "request_user_input_async": 2,
+      "wait": 1,
+      "clock": 1,
+      "mcp__cua_repl": 12
+    }
+  ],
+  [
+    "01a187a7-b2ac-7951-a3a0-c5dd39bdb9ff",
+    111,
+    {
+      "exec": 107,
+      "request_user_input_async": 2,
+      "clock": 2
+    }
+  ],
+  [
+    "01a187e4-b1cb-7db0-803f-8e970ca53fd6",
+    5,
+    {
+      "exec": 5
+    }
+  ],
+  [
+    "01a18ac2-e978-7613-8abe-8d024626efc7",
+    80,
+    {
+      "exec": 63,
+      "mcp__cua_repl": 17
+    }
+  ],
+  [
+    "01a18bd3-aef3-7ae0-bc1b-2dac78288e6d",
+    6,
+    {
+      "exec": 6
+    }
+  ],
+  [
+    "01a19021-a8c9-7df0-8599-7172f22732b6",
+    28,
+    {
+      "exec": 19,
+      "mcp__cua_repl": 9
+    }
+  ],
+  [
+    "01a1959d-baaa-7c13-939a-bd18e7a2a11b",
+    49,
+    {
+      "exec": 47,
+      "clock": 2
+    }
+  ],
+  [
+    "01a199e0-ff8c-7ae1-9e3f-3eb3d8ced987",
+    54,
+    {
+      "exec": 43,
+      "wait": 11
+    }
+  ],
+  [
+    "01a199ff-d015-7e30-97b9-db6295f2e574",
+    604,
+    {
+      "exec": 551,
+      "clock": 51,
+      "request_user_input_async": 1,
+      "wait": 1
+    }
+  ],
+  [
+    "01a19c21-c2fa-7d91-b0e8-d8a0fba2c630",
+    85,
+    {
+      "exec": 83,
+      "clock": 2
+    }
+  ],
+  [
+    "01a19ca1-fe35-7d50-ae77-40391914bd97",
+    119,
+    {
+      "exec": 103,
+      "mcp__cua_repl": 13,
+      "wait": 3
+    }
+  ],
+  [
+    "01a19ec1-c2fb-76a3-86ce-1d6f0d8f4085",
+    145,
+    {
+      "exec": 104,
+      "wait": 41
+    }
+  ],
+  [
+    "01a19f37-d945-74d1-9473-b0967356ea45",
+    243,
+    {
+      "exec": 155,
+      "wait": 88
+    }
+  ],
+  [
+    "01a19f56-a6e2-7610-92a4-38ce6319581c",
+    57,
+    {
+      "exec": 50,
+      "collaboration": 7
+    }
+  ],
+  [
+    "01a19f57-3f6a-7ce1-ba84-a80a20d8f550",
+    16,
+    {
+      "exec": 14,
+      "collaboration": 2
+    }
+  ],
+  [
+    "01a19f57-51f7-72f0-b5fe-0ef019ad5d1d",
+    32,
+    {
+      "exec": 26,
+      "collaboration": 6
+    }
+  ],
+  [
+    "01a19f57-7081-7633-b381-82f9ae37ffd7",
+    25,
+    {
+      "exec": 20,
+      "collaboration": 5
+    }
+  ],
+  [
+    "01a1a015-5c48-7871-9b3f-1dcc1ea1fd54",
+    100,
+    {
+      "exec": 88,
+      "wait": 12
+    }
+  ],
+  [
+    "01a1a02f-26b9-7cd3-a15d-c34f8b94a9dc",
+    100,
+    {
+      "exec": 69,
+      "wait": 31
+    }
+  ],
+  [
+    "01a1a069-3f9a-74c2-bdb7-5c8c2a992efa",
+    122,
+    {
+      "exec": 117,
+      "wait": 5
+    }
+  ],
+  [
+    "01a1a0a6-97e3-7330-bd35-01435b7a56f3",
+    7,
+    {
+      "exec": 7
+    }
+  ],
+  [
+    "01a1a101-1631-7143-945f-5f4a71bb8ba2",
+    60,
+    {
+      "?": 1,
+      "exec": 53,
+      "wait": 6
+    }
+  ],
+  [
+    "01a1a1a5-6443-7970-a218-ac4e3d3d19ce",
+    3,
+    {
+      "exec": 3
+    }
+  ],
+  [
+    "01a1a1a8-3358-7383-88a6-828910405998",
+    140,
+    {
+      "exec": 101,
+      "wait": 39
+    }
+  ],
+  [
+    "01a1a43b-8aa8-7261-b5fc-d90add4a5c33",
+    135,
+    {
+      "exec": 95,
+      "wait": 30,
+      "mcp__cua_repl": 10
+    }
+  ],
+  [
+    "01a1a476-fda2-7030-a3c4-7b4ace3e20bf",
+    42,
+    {
+      "exec": 4,
+      "mcp__cua_repl": 38
+    }
+  ],
+  [
+    "01a1a4aa-e467-7610-be3f-b7a3d6a64094",
+    228,
+    {
+      "exec": 128,
+      "wait": 100
+    }
+  ],
+  [
+    "01a1a4b3-222d-7541-83bc-bb56f920c99a",
+    35,
+    {
+      "exec": 35
+    }
+  ],
+  [
+    "01a1a4e0-ec7a-7e83-a6cd-30108b3defc9",
+    74,
+    {
+      "exec": 46,
+      "wait": 28
+    }
+  ],
+  [
+    "01a1a562-6d14-7bb0-9217-df93efb67e27",
+    36,
+    {
+      "exec": 8,
+      "mcp__cua_repl": 28
+    }
+  ],
+  [
+    "01a1a57e-7dcc-7fe3-bcfa-685994a770e8",
+    143,
+    {
+      "exec": 93,
+      "wait": 50
+    }
+  ],
+  [
+    "01a1a5d5-a7b0-7323-8294-85a0d64c5882",
+    165,
+    {
+      "exec": 125,
+      "wait": 23,
+      "request_user_input_async": 4,
+      "clock": 2,
+      "collaboration": 11
+    }
+  ],
+  [
+    "01a1a61c-faa1-7ff0-8e49-2178e4f19476",
+    64,
+    {
+      "exec": 48,
+      "wait": 16
+    }
+  ],
+  [
+    "01a1a6a5-15be-7ec3-9a81-71910c617bb8",
+    124,
+    {
+      "exec": 102,
+      "wait": 15,
+      "request_user_input_async": 3,
+      "clock": 1,
+      "collaboration": 3
+    }
+  ],
+  [
+    "01a1a6a9-5d06-7843-bd5e-c431b4b65347",
+    140,
+    {
+      "exec": 113,
+      "wait": 15,
+      "request_user_input_async": 3,
+      "clock": 1,
+      "collaboration": 8
+    }
+  ],
+  [
+    "01a1a6ad-8168-79b3-ae51-bec06c4f0847",
+    144,
+    {
+      "exec": 116,
+      "wait": 15,
+      "request_user_input_async": 3,
+      "clock": 1,
+      "collaboration": 9
+    }
+  ],
+  [
+    "01a1a6cd-be62-72c3-88d0-6afa155dceaa",
+    14,
+    {
+      "exec": 14
+    }
+  ],
+  [
+    "01a1a97e-e619-7bf1-81ce-8c671d875834",
+    58,
+    {
+      "exec": 32,
+      "wait": 25,
+      "request_user_input_async": 1
+    }
+  ],
+  [
+    "01a1a981-e86a-7e82-90e1-d4582eccf317",
+    107,
+    {
+      "exec": 87,
+      "clock": 17,
+      "wait": 3
+    }
+  ],
+  [
+    "01a1a987-59df-7830-a127-4b93864a4ba0",
+    149,
+    {
+      "exec": 58,
+      "request_user_input_async": 1,
+      "mcp__cua_repl": 90
+    }
+  ]
+]

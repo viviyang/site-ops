@@ -1,0 +1,13 @@
+{
+  "id": "pianogrid",
+  "name": "PianoGrid",
+  "baseUrl": "https://pianogrid.com",
+  "sitemapUrl": "https://pianogrid.com/sitemap.xml",
+  "fallbackRoutes": [
+    "/"
+  ],
+  "viewports": [
+    "desktop",
+    "mobile"
+  ]
+}

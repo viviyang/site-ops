@@ -1,5 +1,7 @@
 node_modules/
+.env.local
 screenshots/
 reports/
 *.log
 .tmp/
+backlinks/.lock

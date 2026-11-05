@@ -1,0 +1,3 @@
+{
+  "general": { "query": "site:example.invalid/page?key=one" }
+}

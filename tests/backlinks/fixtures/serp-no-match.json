@@ -1,0 +1,4 @@
+{
+  "organic": [{ "link": "https://example.invalid/page?key=two" }],
+  "top_ads": [{ "link": "https://example.invalid/page?key=one" }]
+}

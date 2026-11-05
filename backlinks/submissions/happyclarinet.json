@@ -1,0 +1,731 @@
+[
+  {
+    "id": "happyclarinet--andrew-morris-music--1",
+    "siteId": "happyclarinet",
+    "platformId": "andrew-morris-music",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-291; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 官方公开音乐教学邮箱，Gmail显示Message sent；无公开征集外链声明，仅一次定向资源建议；待回复，未核实公开外链。 Evidence: evidence/2026-10-27-mixed/andy-morris-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--annapolis-piano-lessons--1",
+    "siteId": "happyclarinet",
+    "platformId": "annapolis-piano-lessons",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-336; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-36.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-36; orig_status=SUBMITTED; rel=unknown; evidence=钢琴及单簧管教师页面公开音乐链接与本人邮箱。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-336; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.789Z"
+  },
+  {
+    "id": "happyclarinet--are-na--1",
+    "siteId": "happyclarinet",
+    "platformId": "are-na",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "live",
+    "backlinkUrl": "https://www.are.na/weiwei-yang/seeing-pitch-labels-patterns-and-keyboard-references",
+    "notes": "src=piano/docs/seo/backlinks/execution/outreach-2026-10-26-diversified.json#BL-270; orig_status=LIVE; rel=noopener noreferrer; evidence=evidence/2026-10-26-diversified/arena-three-projects.png, codex:01a0efea-4681-7540-b443-a75633756573#10722; block=https://www.are.na/block/51898388; original_submitted_date=2026-10-26",
+    "history": [
+      {
+        "at": "2026-11-05T03:21:52.611Z",
+        "from": null,
+        "to": "live",
+        "note": "imported from 2026-11-05-screenshot-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-05T03:21:52.611Z",
+    "updatedAt": "2026-11-05T03:21:52.611Z"
+  },
+  {
+    "id": "happyclarinet--borough-of-manhattan-community-college-cuny-oer--1",
+    "siteId": "happyclarinet",
+    "platformId": "borough-of-manhattan-community-college-cuny-oer",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#160; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Zero-cost instrument references for your Music resources page; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "happyclarinet--champlin-park-bands--1",
+    "siteId": "happyclarinet",
+    "platformId": "champlin-park-bands",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-325; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-25.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-25; orig_status=SUBMITTED; rel=unknown; evidence=乐队资源页已按乐器列木管指法表，公开协会邮箱。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-325; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.511Z"
+  },
+  {
+    "id": "happyclarinet--clarinet-colours--1",
+    "siteId": "happyclarinet",
+    "platformId": "clarinet-colours",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-214; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 收件人 clarinetcolours@gmail.com；主题 Browser-based fingering reference suggestion for Clarinet Colours。Gmail Sent 记录已核对，检查时未发现该收件人的退信；未确认对方收件。 详见 outreach-2026-10-16-batch3.md。 等待回复或收录；发送记录不等于送达或上线; original_submitted_date=2026-10-16; src=piano/docs/seo/backlinks/outreach-2026-10-16-batch3.md#10; orig_status=SENT; rel=; evidence=逐站 Gmail Sent 核对，主题 Browser-based fingering reference suggestion for Clarinet Colours; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:37.709Z"
+  },
+  {
+    "id": "happyclarinet--clarinet-note-studio--1",
+    "siteId": "happyclarinet",
+    "platformId": "clarinet-note-studio",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-237; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. 收件人：clarinetnotestudio@gmail.com。 主题：Supplementary B-flat clarinet fingering reference。 凭证：evidence/2026-10-22/mail-08.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#15; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. evidence/2026-10-22/mail-08.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-237; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-08.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:03.778Z"
+  },
+  {
+    "id": "happyclarinet--clarinet-now--1",
+    "siteId": "happyclarinet",
+    "platformId": "clarinet-now",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-253; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Private Contact form submitted after user completed CAPTCHA; Thank You page displayed Thanks for your request. 凭证：evidence/2026-10-22/clarinet-now-success.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#31; orig_status=SUBMITTED; rel=; evidence=Private Contact form submitted after user completed CAPTCHA; Thank You page displayed Thanks for your request. evidence/2026-10-22/clarinet-now-success.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-253; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/clarinet-now-success.png Private Contact form submitted after user completed CAPTCHA; Thank You page displayed Thanks for your request.; original_submitted_date=2026-10-22; visual_review=piano/docs/seo/backlinks/evidence/2026-10-22/clarinet-now-success.png; Site thank-you confirms request received; earlier image shows CAPTCHA.",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-05T03:27:12.059Z"
+  },
+  {
+    "id": "happyclarinet--clarinet-u--1",
+    "siteId": "happyclarinet",
+    "platformId": "clarinet-u",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-236; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. 收件人：Info@clarinetu.com。 主题：Supplementary B-flat clarinet fingering reference。 凭证：evidence/2026-10-22/mail-07.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#14; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. evidence/2026-10-22/mail-07.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-236; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-07.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:03.634Z"
+  },
+  {
+    "id": "happyclarinet--curlie--1",
+    "siteId": "happyclarinet",
+    "platformId": "curlie",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#11; orig_status=SUBMITTED; rel=; evidence=已收到，待编辑审核 确认页标题：Your site suggestion has been received.; original_submitted_date=2026-09-28; src=codex:01a1387d-bc0b-7141-8866-5dac6f7bd516#28,29; evidence=工具输出重复引用 clarinet/docs/seo/backlink-ledger.md 的 Your site suggestion has been received 回执。",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:08:13.418Z"
+  },
+  {
+    "id": "happyclarinet--dev--1",
+    "siteId": "happyclarinet",
+    "platformId": "dev",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#19; orig_status=SUBMITTED; rel=; evidence=文章已发布 `https://dev.to/weiwei_yang_1ee5c1a479747/building-happy-clarinet-a-free-browser-fingering-chart-20e0`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--emily-rach-beisel--1",
+    "siteId": "happyclarinet",
+    "platformId": "emily-rach-beisel",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-330; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Google Forms: Thanks for submitting your contact info!；状态 SENT_FORM；已做本地历史去重；材料 output/outreach-2026-10-28-submissions/messages/P20261028-30.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-30; orig_status=SUBMITTED; rel=unknown; evidence=学生资源页明确列 Boehm 单簧管基本指法、乐谱与听音工具。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-330; orig_status=SUBMITTED; rel=unknown; evidence=Google Forms: Thanks for submitting your contact info!; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.640Z"
+  },
+  {
+    "id": "happyclarinet--flipboard--1",
+    "siteId": "happyclarinet",
+    "platformId": "flipboard",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "live",
+    "backlinkUrl": "https://flipboard.com/@weiweiyang2026/from-written-note-to-fingering-a-small-music-reference-magazine-kqb0n1p1y",
+    "anchorText": "Happy Clarinet;PianoGrid",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-273; orig_status=LIVE; rel=noopener nofollow (Flipboard redirect); evidence=[已核实] User completed login as @weiweiyang2026. Profile showed no magazines before creation. Created one public magazine with four unique resources (Yamaha, Happy Clarinet fingering chart, Open Music Theory, PianoGrid labeled keyboard). Saved original captions for all four and creator ownership disclosure. Public view confirms 4 Stories and the two project links via Flipboard redirect with rel=noopener nofollow. No search indexing verification. Happy Clarinet imported title is C6 basic fingering; caption identifies the general fingering chart. Evidence: evidence/2026-10-26-diversified/flipboard-published.png Execution: execution/outreach-2026-10-26-diversified.json 已公开；4条资源仅添加一次，不重复提交；搜索收录未核实; src=piano/docs/seo/backlinks/prospects-2026-10-22-diversified.csv#25; orig_status=LIVE; rel=noopener nofollow (Flipboard redirect); evidence=User completed login as @weiweiyang2026. Profile showed no magazines before creation. Created one public magazine with four unique resources (Yamaha, Happy Clarinet fingering chart, Open Music Theory, PianoGrid labeled keyboard). Saved original captions for all four and creator ownership disclosure. Public view confirms 4 Stories and the two project links via Flipboard redirect with rel=noopener nofollow. No search indexing verification. Happy Clarinet imported title is C6 basic fingering; caption identifies the general fingering chart. evidence/2026-10-26-diversified/flipboard-published.png; original_submitted_date=2026-10-26; screenshot_reviewed=piano/docs/seo/backlinks/evidence/2026-10-26-diversified/flipboard-published.png; Visible magazine header and four stories; BL-273 documents both outbound redirects.",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "live",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-05T03:22:16.245Z"
+  },
+  {
+    "id": "happyclarinet--fort-atkinson-music--1",
+    "siteId": "happyclarinet",
+    "platformId": "fort-atkinson-music",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#99; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，00:26; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "happyclarinet--github--1",
+    "siteId": "happyclarinet",
+    "platformId": "github",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#18; orig_status=SUBMITTED; rel=; evidence=仓库 About 网站已保存 `https://github.com/viviyang/clarinet`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--huntsville-military-band--1",
+    "siteId": "happyclarinet",
+    "platformId": "huntsville-military-band",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-326; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-26.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-26; orig_status=SUBMITTED; rel=unknown; evidence=链接页有单簧管指法栏目和网站联系入口；含旧资源，维护日期未知。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-326; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.540Z"
+  },
+  {
+    "id": "happyclarinet--imlay-city-schools--1",
+    "siteId": "happyclarinet",
+    "platformId": "imlay-city-schools",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#156; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Free visual music references for your Bands Links page; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "happyclarinet--indie-hackers--1",
+    "siteId": "happyclarinet",
+    "platformId": "indie-hackers",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#16; orig_status=SUBMITTED; rel=; evidence=产品页已公开 `https://www.indiehackers.com/product/happy-clarinet`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--jeffrey-mayo--1",
+    "siteId": "happyclarinet",
+    "platformId": "jeffrey-mayo",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-213; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 收件人 mayo@jeffreymayo.com；主题 Browser-based clarinet fingering reference for your students。Gmail Sent 记录已核对，检查时未发现该收件人的退信；未确认对方收件。 详见 outreach-2026-10-16-batch3.md。 等待回复或收录；发送记录不等于送达或上线; original_submitted_date=2026-10-16; src=piano/docs/seo/backlinks/outreach-2026-10-16-batch3.md#9; orig_status=SENT; rel=; evidence=逐站 Gmail Sent 核对，主题 Browser-based clarinet fingering reference for your students; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:37.676Z"
+  },
+  {
+    "id": "happyclarinet--jenny-clarinet--1",
+    "siteId": "happyclarinet",
+    "platformId": "jenny-clarinet",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-285; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 私密联系表单提交一次；回执Thanks for contacting Jenny Clarinet!；未核实公开链接。 Evidence: evidence/2026-10-27-mixed/jenny-clarinet-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27; visual_review=piano/docs/seo/backlinks/evidence/2026-10-27-mixed/jenny-clarinet-sent.jpg; Contact confirmation visible.",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-05T03:27:12.201Z"
+  },
+  {
+    "id": "happyclarinet--jessica-pollack--1",
+    "siteId": "happyclarinet",
+    "platformId": "jessica-pollack",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-335; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-35.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-35; orig_status=SUBMITTED; rel=unknown; evidence=教师页有其他学习资源和公开邮箱；与指法表的配合需编辑判断。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-335; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.758Z"
+  },
+  {
+    "id": "happyclarinet--kelli-ray--1",
+    "siteId": "happyclarinet",
+    "platformId": "kelli-ray",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-331; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-31.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-31; orig_status=SUBMITTED; rel=unknown; evidence=单簧管教师主页含教学资源和通用联系表、邮箱；外链推荐未说明。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-331; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.669Z"
+  },
+  {
+    "id": "happyclarinet--mad-music--1",
+    "siteId": "happyclarinet",
+    "platformId": "mad-music",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#102; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，00:29; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "happyclarinet--mat-music-program-ps-126--1",
+    "siteId": "happyclarinet",
+    "platformId": "mat-music-program-ps-126",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#84; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Gmail Message sent; Sent row at 00:23; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "happyclarinet--medium--1",
+    "siteId": "happyclarinet",
+    "platformId": "medium",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#20; orig_status=SUBMITTED; rel=; evidence=文章已发布 `https://medium.com/@weiwei.yang.9977/a-free-clarinet-fingering-chart-in-the-browser-8aff72e34cf2`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--music-mark--1",
+    "siteId": "happyclarinet",
+    "platformId": "music-mark",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#12; orig_status=SUBMITTED; rel=; evidence=已收到，待工作人员联系 `https://www.musicmark.org.uk/submit-resource/listing-sent/`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--online-clarinet--1",
+    "siteId": "happyclarinet",
+    "platformId": "online-clarinet",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-238; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Official resource submission alert: Thank you for your submission! We'll review it and add it to our resource library. 凭证：evidence/2026-10-22/online-clarinet-receipt.txt。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#16; orig_status=SUBMITTED; rel=; evidence=Official resource submission alert: Thank you for your submission! We'll review it and add it to our resource library. evidence/2026-10-22/online-clarinet-receipt.txt; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-238; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/online-clarinet-receipt.txt Official resource submission alert: Thank you for your submission! We'll review it and add it to our resource library.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:03.832Z"
+  },
+  {
+    "id": "happyclarinet--pchs-bands--1",
+    "siteId": "happyclarinet",
+    "platformId": "pchs-bands",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-327; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-27.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-27; orig_status=SUBMITTED; rel=unknown; evidence=学生资源页已有单簧管指法训练器、木管指法指南及理论工具；公开乐队邮箱。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-327; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.576Z"
+  },
+  {
+    "id": "happyclarinet--providence-school-of-music--1",
+    "siteId": "happyclarinet",
+    "platformId": "providence-school-of-music",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15.md#27; orig_status=confirmed; rel=; evidence=codex:01a0efea-4681-7540-b443-a75633756573#2931,3121,3283,3295; Gmail Sent 逐站表; original_submitted_date=2026-10-15",
+    "history": [
+      {
+        "at": "2026-11-03T07:16:44.426Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-evidence-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:16:44.426Z",
+    "updatedAt": "2026-11-03T07:16:44.426Z"
+  },
+  {
+    "id": "happyclarinet--raindrop-io--1",
+    "siteId": "happyclarinet",
+    "platformId": "raindrop-io",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "live",
+    "backlinkUrl": "https://weiwei-yang-9977.raindrop.page/small-steps-instrument-reference-shelf-76366688",
+    "anchorText": "Happy Clarinet: keep written pitch separate from concert pitch",
+    "notes": "src=codex:01a0efea-4681-7540-b443-a75633756573#8554,8568,9241; orig_status=LIVE; rel=nofollow noopener noreferrer; evidence=piano/docs/seo/backlinks/execution/outreach-2026-10-23-diversified.json#BL-268 + evidence/2026-10-23-diversified/raindrop-published.png; original_submitted_date=2026-10-23",
+    "history": [
+      {
+        "at": "2026-11-03T07:16:44.426Z",
+        "from": null,
+        "to": "live",
+        "note": "imported from 2026-11-03-evidence-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:16:44.426Z",
+    "updatedAt": "2026-11-03T07:16:44.426Z"
+  },
+  {
+    "id": "happyclarinet--saashub--1",
+    "siteId": "happyclarinet",
+    "platformId": "saashub",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#14; orig_status=SUBMITTED; rel=; evidence=已提交免费队列，待审核后上线 `https://www.saashub.com/happy-clarinet/added`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--sitelike--1",
+    "siteId": "happyclarinet",
+    "platformId": "sitelike",
+    "targetUrl": "https://happyclarinet.com/",
+    "status": "submitted",
+    "notes": "src=clarinet/docs/seo/backlink-ledger.md#15; orig_status=SUBMITTED; rel=; evidence=公开页已出现 `https://www.sitelike.org/similar/happyclarinet.com/`; original_submitted_date=2026-09-28",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "happyclarinet--stepwise-publications--1",
+    "siteId": "happyclarinet",
+    "platformId": "stepwise-publications",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-240; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. 收件人：curtis@stepwisepublications.com。 主题：Supplementary B-flat clarinet fingering reference。 凭证：evidence/2026-10-22/mail-10.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#18; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. evidence/2026-10-22/mail-10.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-240; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-10.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:03.942Z"
+  },
+  {
+    "id": "happyclarinet--the-music-chambers--1",
+    "siteId": "happyclarinet",
+    "platformId": "the-music-chambers",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-329; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-29.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-29; orig_status=SUBMITTED; rel=unknown; evidence=单簧管教师资源含当季选拔参考录音和初学者教程；公开联系邮箱。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-329; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.607Z"
+  },
+  {
+    "id": "happyclarinet--theclarinet-net--1",
+    "siteId": "happyclarinet",
+    "platformId": "theclarinet-net",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-235; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent; no prior Sent matches. Public contact verified on official contact/faculty page. 收件人：kcoughlin@howardcc.edu。 主题：Supplementary beginner reference for TheClarinet.net links。 凭证：evidence/2026-10-22/mail-TheClarinet-net.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#13; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent; no prior Sent matches. Public contact verified on official contact/faculty page. evidence/2026-10-22/mail-TheClarinet-net.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-235; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-TheClarinet-net.png Gmail Message sent; no prior Sent matches. Public contact verified on official contact/faculty page.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:03.573Z"
+  },
+  {
+    "id": "happyclarinet--tuning-charts--1",
+    "siteId": "happyclarinet",
+    "platformId": "tuning-charts",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-249; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail displayed Message sent; draft recipient and target checked. 收件人：info@tuningcharts.com。 主题：Supplementary basic clarinet fingering reference。 凭证：evidence/2026-10-22/mail-tuning-charts.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#27; orig_status=SUBMITTED; rel=; evidence=Gmail displayed Message sent; draft recipient and target checked. evidence/2026-10-22/mail-tuning-charts.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-249; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-tuning-charts.png Gmail displayed Message sent; draft recipient and target checked.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:05.419Z"
+  },
+  {
+    "id": "happyclarinet--university-of-oregon-libraries--1",
+    "siteId": "happyclarinet",
+    "platformId": "university-of-oregon-libraries",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-333; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-33.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-33; orig_status=SUBMITTED; rel=unknown; evidence=图书馆单簧管指南 Other Resources 页提供馆员邮箱。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-333; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.701Z"
+  },
+  {
+    "id": "happyclarinet--williams-clarinet-studio--1",
+    "siteId": "happyclarinet",
+    "platformId": "williams-clarinet-studio",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-334; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-34.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-34; orig_status=SUBMITTED; rel=unknown; evidence=工作室公开资源列表及教师联系邮箱；有些材料需登录，不按全站开放处理。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-334; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.729Z"
+  },
+  {
+    "id": "happyclarinet--world-clarinet-alliance--1",
+    "siteId": "happyclarinet",
+    "platformId": "world-clarinet-alliance",
+    "targetUrl": "https://happyclarinet.com/fingering-chart",
+    "status": "submitted",
+    "anchorText": "Happy Clarinet",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-239; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. 收件人：mikegetzin@hotmail.com。 主题：Supplementary B-flat clarinet fingering reference。 凭证：evidence/2026-10-22/mail-09.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#17; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. evidence/2026-10-22/mail-09.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-239; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-09.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:03.884Z"
+  }
+]

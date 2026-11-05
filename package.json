@@ -5,12 +5,23 @@
   "type": "module",
   "scripts": {
     "screenshots": "tsx scripts/capture-screenshots.ts",
-    "typecheck": "tsc --noEmit"
+    "publish:obsidian": "tsx scripts/publish-obsidian.ts",
+    "typecheck": "tsc --noEmit",
+    "backlinks": "tsx scripts/backlinks.ts",
+    "backlinks:ui": "tsx scripts/backlinks-ui.ts",
+    "test": "node --import tsx --test tests/**/*.test.ts"
   },
   "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
     "@types/node": "^20.19.25",
     "playwright": "^1.60.0",
     "tsx": "^4.21.0",
     "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "js-yaml": "^4.1.1",
+    "marked": "^18.0.3"
   }
 }

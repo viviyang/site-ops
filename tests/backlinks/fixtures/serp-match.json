@@ -1,0 +1,6 @@
+{
+  "organic": [
+    { "link": "https://example.invalid/irrelevant" },
+    { "link": "https://WWW.example.invalid/page/?key=one#section" }
+  ]
+}

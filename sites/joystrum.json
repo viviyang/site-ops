@@ -1,0 +1,13 @@
+{
+  "id": "joystrum",
+  "name": "JoyStrum",
+  "baseUrl": "https://joystrum.com",
+  "sitemapUrl": "https://joystrum.com/sitemap.xml",
+  "fallbackRoutes": [
+    "/"
+  ],
+  "viewports": [
+    "desktop",
+    "mobile"
+  ]
+}

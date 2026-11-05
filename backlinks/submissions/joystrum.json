@@ -1,0 +1,734 @@
+[
+  {
+    "id": "joystrum--are-na--1",
+    "siteId": "joystrum",
+    "platformId": "are-na",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "live",
+    "backlinkUrl": "https://www.are.na/weiwei-yang/seeing-pitch-labels-patterns-and-keyboard-references",
+    "notes": "src=piano/docs/seo/backlinks/execution/outreach-2026-10-26-diversified.json#BL-270; orig_status=LIVE; rel=; evidence=evidence/2026-10-26-diversified/arena-three-projects.png, codex:01a0efea-4681-7540-b443-a75633756573#10722; block=https://www.are.na/block/51898367; original_submitted_date=2026-10-26",
+    "history": [
+      {
+        "at": "2026-11-05T03:21:52.611Z",
+        "from": null,
+        "to": "live",
+        "note": "imported from 2026-11-05-screenshot-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-05T03:21:52.611Z",
+    "updatedAt": "2026-11-05T03:21:52.611Z"
+  },
+  {
+    "id": "joystrum--barre-none--1",
+    "siteId": "joystrum",
+    "platformId": "barre-none",
+    "targetUrl": "https://joystrum.com/tools/capo-chart/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-313; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent verified after exact-recipient dedup; recipient support@barren.one；状态 SENT_EMAIL；Gmail in:sent exact recipient query for service@alexanderpeppe.com and support@barren.one returned No messages matched your search；材料 output/outreach-2026-10-28-submissions/messages/P20261028-13.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-13; orig_status=SUBMITTED; rel=unknown; evidence=资源页明确邀请推荐有用的吉他课程或工具，并说明编辑选择及回链披露。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-313; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent verified after exact-recipient dedup; recipient support@barren.one; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.229Z"
+  },
+  {
+    "id": "joystrum--borough-of-manhattan-community-college-cuny-oer--1",
+    "siteId": "joystrum",
+    "platformId": "borough-of-manhattan-community-college-cuny-oer",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#160; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Zero-cost instrument references for your Music resources page; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--brendon-lally-music--1",
+    "siteId": "joystrum",
+    "platformId": "brendon-lally-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-243; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. [已核实] Gmail Sent audit found two separate sends today. Duplicate was accidental after progress recovery; stop further sends to this recipient. 收件人：brendon.lally@gmail.com。 主题：Free beginner guitar chord reference suggestion。 凭证：evidence/2026-10-22/mail-12.png。 重复发送异常：该收件人本日共发两封；不重复计数，不再重发。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#21; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. [已核实] Gmail Sent audit found two separate sends today. Duplicate was accidental after progress recovery; stop further sends to this recipient. evidence/2026-10-22/mail-12.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-243; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-12.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. [已核实] Gmail Sent audit found two separate sends today. Duplicate was accidental after progress recovery; stop further sends to this recipient.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:04.571Z"
+  },
+  {
+    "id": "joystrum--diigo--1",
+    "siteId": "joystrum",
+    "platformId": "diigo",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-271; orig_status=LIVE; rel=none on library anchor; logged-out attributes not verified; evidence=[已核实] Chrome authenticated as weiweiyangmusic. Library had only two default Diigo onboarding items before this continuation; no project bookmarks. Added two prepared bookmarks once each: JoyStrum 838467932 and Fender independent reference 838468002. Private checkbox unchecked for both; public-intended new bookmarks only, no existing privacy changed. Saved creator disclosure, original descriptions and four guitar tags. Library confirms both saved links; JoyStrum direct anchor has no rel. Logged-out public view and search indexing not independently verified. Evidence: evidence/2026-10-26-diversified/diigo-bookmarks-published.png Execution: execution/outreach-2026-10-26-diversified.json 已保存两条非私密书签；不重复添加；未单独核实未登录视图/收录; 可点击目标链接证据不足; src=piano/docs/seo/backlinks/prospects-2026-10-22-diversified.csv#23; orig_status=LIVE; rel=none on library anchor; logged-out attributes not verified; evidence=Chrome authenticated as weiweiyangmusic. Library had only two default Diigo onboarding items before this continuation; no project bookmarks. Added two prepared bookmarks once each: JoyStrum 838467932 and Fender independent reference 838468002. Private checkbox unchecked for both; public-intended new bookmarks only, no existing privacy changed. Saved creator disclosure, original descriptions and four guitar tags. Library confirms both saved links; JoyStrum direct anchor has no rel. Logged-out public view and search indexing not independently verified. evidence/2026-10-26-diversified/diigo-bookmarks-published.png; 可点击目标链接证据不足; original_submitted_date=2026-10-26; screenshot_reviewed=piano/docs/seo/backlinks/evidence/2026-10-26-diversified/diigo-bookmarks-published.png; Saved bookmark appears in authenticated My Library; public visibility not established.",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-05T03:22:16.307Z"
+  },
+  {
+    "id": "joystrum--fort-atkinson-music--1",
+    "siteId": "joystrum",
+    "platformId": "fort-atkinson-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#99; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，00:26; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--free-alternatives-to--1",
+    "siteId": "joystrum",
+    "platformId": "free-alternatives-to",
+    "targetUrl": "https://joystrum.com/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-280; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Google signup completed; account dashboard initially You have not suggested a tool yet. Local ledger contained no matching domain. Submitted JoyStrum once with category Music education and guitar practice tools, current free features and explicit creator disclosure. Official form shows Thanks. We have JoyStrum. Awaiting editorial review, not a verified live listing. Evidence: evidence/2026-10-23-diversified/freealternatives-result.png Execution: execution/outreach-2026-10-23-diversified.json 等待编辑审核；不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-22-diversified.csv#19; orig_status=SUBMITTED; rel=unknown; evidence=Google signup completed; account dashboard initially You have not suggested a tool yet. Local ledger contained no matching domain. Submitted JoyStrum once with category Music education and guitar practice tools, current free features and explicit creator disclosure. Official form shows Thanks. We have JoyStrum. Awaiting editorial review, not a verified live listing. evidence/2026-10-23-diversified/freealternatives-result.png; original_submitted_date=2026-10-23; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22-diversified.json#BL-280; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-23-diversified/freealternatives-result.png Google signup completed; account dashboard initially You have not suggested a tool yet. Local ledger contained no matching domain. Submitted JoyStrum once with category Music education and guitar practice tools, current free features and explicit creator disclosure. Official form shows Thanks. We have JoyStrum. Awaiting editorial review, not a verified live listing.; original_submitted_date=2026-10-23; screenshot_reviewed=piano/docs/seo/backlinks/evidence/2026-10-23-diversified/freealternatives-result.png; Receipt identifies JoyStrum and explains subsequent review.",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-05T03:24:28.500Z"
+  },
+  {
+    "id": "joystrum--gearnews--1",
+    "siteId": "joystrum",
+    "platformId": "gearnews",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-255; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed after one Send; recipient and body checked before sending; not delivery or listing confirmation. 联系入口：news@gearnews.com。凭证：evidence/2026-10-22-diversified/mail-gearnews.png。记录：execution/outreach-2026-10-22-diversified.json。发送/表单回执不等于收录。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-22-diversified.csv#9; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent displayed after one Send; recipient and body checked before sending; not delivery or listing confirmation. evidence/2026-10-22-diversified/mail-gearnews.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22-diversified.json#BL-255; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22-diversified/mail-gearnews.png Gmail Message sent displayed after one Send; recipient and body checked before sending; not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:06.708Z"
+  },
+  {
+    "id": "joystrum--glenn-weiser--1",
+    "siteId": "joystrum",
+    "platformId": "glenn-weiser",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-320; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-20.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-20; orig_status=SUBMITTED; rel=unknown; evidence=学生资源页列和弦表、读谱、音阶和教程；公开站长教学邮箱。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-320; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.381Z"
+  },
+  {
+    "id": "joystrum--guitar-lessons-buffalo-bob-luterek--1",
+    "siteId": "joystrum",
+    "platformId": "guitar-lessons-buffalo-bob-luterek",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-215; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 收件人 lessons@guitarlessonsbuffalo.com；主题 Beginner chord reference suggestion for your Guitar Links。Gmail Sent 记录已核对，检查时未发现该收件人的退信；未确认对方收件。 详见 outreach-2026-10-16-batch3.md。 等待回复或收录；发送记录不等于送达或上线; original_submitted_date=2026-10-16; src=piano/docs/seo/backlinks/outreach-2026-10-16-batch3.md#11; orig_status=SENT; rel=; evidence=逐站 Gmail Sent 核对，主题 Beginner chord reference suggestion for your Guitar Links; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:37.744Z"
+  },
+  {
+    "id": "joystrum--guitar-lessons-by-don--1",
+    "siteId": "joystrum",
+    "platformId": "guitar-lessons-by-don",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-246; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient and target verified. Not delivery or listing confirmation. 收件人：donzolv@gmail.com。 主题：Free beginner guitar chord reference for your resources。 凭证：evidence/2026-10-22/mail-donzolv-gmail-com.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#24; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient and target verified. Not delivery or listing confirmation. evidence/2026-10-22/mail-donzolv-gmail-com.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-246; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-donzolv-gmail-com.png Gmail Message sent displayed; draft recipient and target verified. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:04.955Z"
+  },
+  {
+    "id": "joystrum--guitar-world--1",
+    "siteId": "joystrum",
+    "platformId": "guitar-world",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-257; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed after one Send; recipient and body checked before sending; not delivery or listing confirmation. 联系入口：guitarworld@futurenet.com。凭证：evidence/2026-10-22-diversified/mail-guitarworld.png。记录：execution/outreach-2026-10-22-diversified.json。发送/表单回执不等于收录。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-22-diversified.csv#13; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent displayed after one Send; recipient and body checked before sending; not delivery or listing confirmation. evidence/2026-10-22-diversified/mail-guitarworld.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22-diversified.json#BL-257; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22-diversified/mail-guitarworld.png Gmail Message sent displayed after one Send; recipient and body checked before sending; not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:07.105Z"
+  },
+  {
+    "id": "joystrum--guitarbased--1",
+    "siteId": "joystrum",
+    "platformId": "guitarbased",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-314; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast observed in the following call before composing P20261028-16；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-14.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-14; orig_status=SUBMITTED; rel=unknown; evidence=官方征稿页明确接受免费吉他投稿；先给三个题目，正文至少2000词。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-314; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast observed in the following call before composing P20261028-16; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.262Z"
+  },
+  {
+    "id": "joystrum--guitars-for-kidz--1",
+    "siteId": "joystrum",
+    "platformId": "guitars-for-kidz",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-316; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-16.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-16; orig_status=SUBMITTED; rel=unknown; evidence=儿童吉他资源页列 JustinGuitar、Andy Guitar、Good Guitarist 等外部教学网站。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-316; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.292Z"
+  },
+  {
+    "id": "joystrum--hellomusictheory--1",
+    "siteId": "joystrum",
+    "platformId": "hellomusictheory",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#101; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，00:29; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--hilldale-public-schools--1",
+    "siteId": "joystrum",
+    "platformId": "hilldale-public-schools",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#170; orig_status=SUBMITTED; rel=unknown; evidence=Message sent，Gmail Sent 查回该邮件; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--kansas-state-university--1",
+    "siteId": "joystrum",
+    "platformId": "kansas-state-university",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#74; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Piano and guitar chord references for your theory resources; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--leicestershire-music--1",
+    "siteId": "joystrum",
+    "platformId": "leicestershire-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-241; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] User completed CAPTCHA. Official form displayed Thank you for contacting Leicestershire Music. We will respond as soon as we can. 凭证：evidence/2026-10-22/leicestershire-success.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#19; orig_status=SUBMITTED; rel=; evidence=User completed CAPTCHA. Official form displayed Thank you for contacting Leicestershire Music. We will respond as soon as we can. evidence/2026-10-22/leicestershire-success.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-241; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/leicestershire-success.png User completed CAPTCHA. Official form displayed Thank you for contacting Leicestershire Music. We will respond as soon as we can.; original_submitted_date=2026-10-22; screenshot_reviewed=piano/docs/seo/backlinks/evidence/2026-10-22/leicestershire-success.png; Contact thank-you confirmation",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T09:50:51.624Z"
+  },
+  {
+    "id": "joystrum--mad-music--1",
+    "siteId": "joystrum",
+    "platformId": "mad-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#102; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，00:29; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--mark-teaches-music--1",
+    "siteId": "joystrum",
+    "platformId": "mark-teaches-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-321; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-21.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-21; orig_status=SUBMITTED; rel=unknown; evidence=音乐资源页列外部参考，并邀请就问题联系教学团队。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-321; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.414Z"
+  },
+  {
+    "id": "joystrum--mat-music-program-ps-126--1",
+    "siteId": "joystrum",
+    "platformId": "mat-music-program-ps-126",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#84; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Gmail Message sent; Sent row at 00:23; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--medium--1",
+    "siteId": "joystrum",
+    "platformId": "medium",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "live",
+    "backlinkUrl": "https://medium.com/@weiwei.yang.9977/three-checks-to-make-before-changing-a-guitar-chord-shape-e2e0bca77efa",
+    "anchorText": "JoyStrum chord chart",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-300; orig_status=LIVE; rel=ugc nofollow; evidence=[已核实] 本地正文、配图和投稿资料已准备；未在线提交。Title: Three Checks to Make Before Changing a Guitar Chord Shape; Words: 888; Project: JoyStrum; File: output/outreach-2026-10-27-articles/03-medium-guitar-chord-checks.html; SHA256: bed5ddb9163aac39949379c0861df0d7b464630411c0b23a957987a2406027b9; Chrome URL safety stop and Gmail transport error. Execution: execution/outreach-2026-10-27-articles.json | [已核实] 2026-10-27 恢复检查：Medium 未登录；登录框明确含接受 Terms of Service / Privacy Policy，已发起即时确认但尚未收到回复；账号草稿及发布记录尚未查重，未提交。 Evidence: evidence/2026-10-27-articles/; 本轮新增提交0。 | 恢复进度：[已核实] Medium 登录成功，草稿2篇(含未命名草稿内容)、已发布9篇、定时、非公开、投稿列表已检查，未发现本篇。已创建唯一草稿 https://medium.com/p/e2e0bca77efa/edit ，正文、标题、AI披露和JoyStrum链接已保存；配图上传因扩展缺少 Allow access to file URLs 权限失败，未发布。用户已确认本次登录条款。 | 最新结果：[已核实] 2026-10-27 账号草稿/发布/定时/非公开/投稿列表查重后复用唯一草稿e2e0bca77efa；已正式发布。公开页可见完整文章、开头AI与所有权披露、原创示意图、图片alt和署名、JoyStrum正文链接。rel=noopener ugc nofollow。未选择付费墙，未触发邮件推送操作；不声称平台绝不会产生系统通知。主题Guitar。证据evidence/2026-10-27-articles/medium-published.png；搜索收录未核实。 维护真实读者讨论，不重复发布；搜索收录未验证; original_submitted_date=2026-10-27; src=codex:01a185e1-e168-7d50-8f7c-78bdb56eccf4#1974,1975; evidence=工具记录同一文章公开 URL 带 postPublishedType=initial，已存在文章 e2e0bca77efa。",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "live",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:08:13.348Z"
+  },
+  {
+    "id": "joystrum--melbourne-guitar-academy--1",
+    "siteId": "joystrum",
+    "platformId": "melbourne-guitar-academy",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-323; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-23.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-23; orig_status=SUBMITTED; rel=unknown; evidence=免费吉他资源页提供入门练习，并链接联系页。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-323; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.476Z"
+  },
+  {
+    "id": "joystrum--morgan-valley-music--1",
+    "siteId": "joystrum",
+    "platformId": "morgan-valley-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-16-batch3.md#28; orig_status=SENT; rel=; evidence=逐站 Gmail Sent 核对，主题 Free visual piano and guitar references for your students; original_submitted_date=2026-10-16",
+    "history": [
+      {
+        "at": "2026-11-03T07:16:44.426Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-evidence-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:16:44.426Z",
+    "updatedAt": "2026-11-03T07:16:44.426Z"
+  },
+  {
+    "id": "joystrum--neil-allison-guitar-mojo--1",
+    "siteId": "joystrum",
+    "platformId": "neil-allison-guitar-mojo",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-319; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-19.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-19; orig_status=SUBMITTED; rel=unknown; evidence=学习资源页提供开放和弦、左手和弦、基本和弦字典；欢迎内容问题和意见。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-319; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.349Z"
+  },
+  {
+    "id": "joystrum--north-carolina-music-educators-association--1",
+    "siteId": "joystrum",
+    "platformId": "north-carolina-music-educators-association",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15.md#26; orig_status=confirmed; rel=; evidence=codex:01a0efea-4681-7540-b443-a75633756573#2931,3121,3283,3295; Gmail Sent 逐站表; original_submitted_date=2026-10-15",
+    "history": [
+      {
+        "at": "2026-11-03T07:16:44.426Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-evidence-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:16:44.426Z",
+    "updatedAt": "2026-11-03T07:16:44.426Z"
+  },
+  {
+    "id": "joystrum--nyc-guitar-school--1",
+    "siteId": "joystrum",
+    "platformId": "nyc-guitar-school",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-242; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. 收件人：info@nycguitarschool.com。 主题：Free beginner guitar chord reference suggestion。 凭证：evidence/2026-10-22/mail-11.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#20; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. evidence/2026-10-22/mail-11.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-242; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-11.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:04.295Z"
+  },
+  {
+    "id": "joystrum--pro-guitar-insights--1",
+    "siteId": "joystrum",
+    "platformId": "pro-guitar-insights",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-247; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient and target verified. Not delivery or listing confirmation. 收件人：Jimsuttonisg@gmail.com。 主题：Free beginner guitar chord reference for your resources。 凭证：evidence/2026-10-22/mail-Jimsuttonisg-gmail-com.png。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#25; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient and target verified. Not delivery or listing confirmation. evidence/2026-10-22/mail-Jimsuttonisg-gmail-com.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-247; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-Jimsuttonisg-gmail-com.png Gmail Message sent displayed; draft recipient and target verified. Not delivery or listing confirmation.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:05.186Z"
+  },
+  {
+    "id": "joystrum--providence-school-of-music--1",
+    "siteId": "joystrum",
+    "platformId": "providence-school-of-music",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15.md#27; orig_status=confirmed; rel=; evidence=codex:01a0efea-4681-7540-b443-a75633756573#2931,3121,3283,3295; Gmail Sent 逐站表; original_submitted_date=2026-10-15",
+    "history": [
+      {
+        "at": "2026-11-03T07:16:44.426Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-evidence-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:16:44.426Z",
+    "updatedAt": "2026-11-03T07:16:44.426Z"
+  },
+  {
+    "id": "joystrum--raindrop-io--1",
+    "siteId": "joystrum",
+    "platformId": "raindrop-io",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "live",
+    "backlinkUrl": "https://weiwei-yang-9977.raindrop.page/small-steps-instrument-reference-shelf-76366688",
+    "anchorText": "JoyStrum: compare an open chord with a smaller practice sheet",
+    "notes": "src=codex:01a0efea-4681-7540-b443-a75633756573#8554,8568,9241; orig_status=LIVE; rel=nofollow noopener noreferrer; evidence=piano/docs/seo/backlinks/execution/outreach-2026-10-23-diversified.json#BL-268 + evidence/2026-10-23-diversified/raindrop-published.png; original_submitted_date=2026-10-23",
+    "history": [
+      {
+        "at": "2026-11-03T07:16:44.426Z",
+        "from": null,
+        "to": "live",
+        "note": "imported from 2026-11-03-evidence-supplement.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:16:44.426Z",
+    "updatedAt": "2026-11-03T07:16:44.426Z"
+  },
+  {
+    "id": "joystrum--roswell-music-jam--1",
+    "siteId": "joystrum",
+    "platformId": "roswell-music-jam",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-287; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 官方资源页欢迎工具建议；Gmail发送一次，待回复及编辑判断，未核实公开收录。 Evidence: evidence/2026-10-27-mixed/roswell-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "joystrum--song-cage--1",
+    "siteId": "joystrum",
+    "platformId": "song-cage",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "notes": "src=piano/docs/seo/backlinks/outreach-2026-10-15-batch2.md#36; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Sent 批次逐站记录，Piano and guitar chord references for your theory tools article; original_submitted_date=2026-10-15",
+    "history": [
+      {
+        "at": "2026-11-03T08:07:19.755Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-batch-reconciliation.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T08:07:19.755Z",
+    "updatedAt": "2026-11-03T08:07:19.755Z"
+  },
+  {
+    "id": "joystrum--sound-tech-insider--1",
+    "siteId": "joystrum",
+    "platformId": "sound-tech-insider",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-286; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 官方公开邮箱，经Gmail发送一次并显示Message sent；仅工具建议，不申请付费赞助；未核实公开收录。 Evidence: evidence/2026-10-27-mixed/soundtech-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "joystrum--the-guitar-classroom--1",
+    "siteId": "joystrum",
+    "platformId": "the-guitar-classroom",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-290; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 官方About页欢迎建议；公开邮箱Gmail明确Message sent；未核实对方收信或公开链接。 Evidence: evidence/2026-10-27-mixed/guitarclassroom-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "joystrum--the-music-ninja--1",
+    "siteId": "joystrum",
+    "platformId": "the-music-ninja",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-282; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail明确显示Message sent；仅发送一次，等待编辑评估，公开收录未核实。 Evidence: evidence/2026-10-27-mixed/music-ninja-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "joystrum--ultimate-guitar-gear-guide--1",
+    "siteId": "joystrum",
+    "platformId": "ultimate-guitar-gear-guide",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-289; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] 官方Contact页允许工具建议；Gmail显示Message sent；一次发送，等待编辑决定，公开外链未核实。 Evidence: evidence/2026-10-27-mixed/ultimate-guitar-guide-sent.jpg Execution: execution/outreach-2026-10-27-mixed.json 等待审核或回复；不要重复提交；搜索收录未核实; original_submitted_date=2026-10-27",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:06:53.761Z"
+  },
+  {
+    "id": "joystrum--w-o-smith-music-school--1",
+    "siteId": "joystrum",
+    "platformId": "w-o-smith-music-school",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "unknown",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-322; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent toast verified in fresh DOM after Send；状态 SENT_EMAIL；Gmail in:sent OR query for all 29 exact recipient addresses returned No messages matched your search.；材料 output/outreach-2026-10-28-submissions/messages/P20261028-22.txt；执行证据 docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json 等待编辑/站点回复，不重复提交; src=piano/docs/seo/backlinks/prospects-2026-10-28.csv#P20261028-22; orig_status=SUBMITTED; rel=unknown; evidence=面向教师的资源页并公开教学团队邮箱；外部推荐政策未说明。 2026-10-29 已提交；等待回复，不重复发送 已提交，等待回复; original_submitted_date=2026-10-29; src=piano/docs/seo/backlinks/execution/outreach-2026-10-28-submissions.json#BL-322; orig_status=SUBMITTED; rel=unknown; evidence=Gmail Message sent toast verified in fresh DOM after Send; chat_batch=codex:01a0efea-4681-7540-b443-a75633756573#13764",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T07:16:38.447Z"
+  },
+  {
+    "id": "joystrum--winston-salem-suzuki-school--1",
+    "siteId": "joystrum",
+    "platformId": "winston-salem-suzuki-school",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-244; orig_status=SUBMITTED; rel=unknown; evidence=[已核实] Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. [已核实] Gmail Sent audit found two separate sends today. Duplicate was accidental after progress recovery; stop further sends to this recipient. 收件人：suzukischoolws@gmail.com。 主题：Free beginner guitar chord reference suggestion。 凭证：evidence/2026-10-22/mail-13.png。 重复发送异常：该收件人本日共发两封；不重复计数，不再重发。 发送/表单回执不等于已收录。完整记录：execution/outreach-2026-10-22.json。 等待回复或收录；不重复发送; src=piano/docs/seo/backlinks/prospects-2026-10-21.csv#22; orig_status=SUBMITTED; rel=; evidence=Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. [已核实] Gmail Sent audit found two separate sends today. Duplicate was accidental after progress recovery; stop further sends to this recipient. evidence/2026-10-22/mail-13.png; original_submitted_date=2026-10-22; src=piano/docs/seo/backlinks/execution/outreach-2026-10-22.json#BL-244; orig_status=SUBMITTED; rel=unknown; evidence=evidence/2026-10-22/mail-13.png Gmail Message sent displayed; draft recipient, subject and target verified before Send. Not delivery or listing confirmation. [已核实] Gmail Sent audit found two separate sends today. Duplicate was accidental after progress recovery; stop further sends to this recipient.; original_submitted_date=2026-10-22",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-03T08:07:04.812Z"
+  },
+  {
+    "id": "joystrum--youtube--1",
+    "siteId": "joystrum",
+    "platformId": "youtube",
+    "targetUrl": "https://joystrum.com/chords/",
+    "status": "submitted",
+    "anchorText": "JoyStrum",
+    "notes": "src=piano/docs/seo/backlinks/ledger.csv#BL-276; orig_status=LIVE; rel=none (plain-text URL); evidence=[已核实] User confirmed YouTube channel creation, Terms and JoyStrum publication. Created Weiwei Yang @weiweiyangmusic; initial Studio No content available. Uploaded MP4 once (qgmUA7gb28c), English, Education, general audience not specifically made for kids. Copyright Checks complete No issues found; Video published receipt Oct 23 2026. Public page title and description verified. JoyStrum URL appears as plain text; no clickable external anchor found, so not counted as a clickable backlink. Custom thumbnail requires phone verification and was skipped. Corrected and imported English SRT with all six cues; Studio Video subtitles confirms English Published Oct 23 2026. Public player CC availability was not yet verified. Evidence: evidence/2026-10-23-diversified/youtube-published.png Execution: execution/outreach-2026-10-23-diversified.json 已公开；不重复上传，未核实搜索收录; 可点击目标链接证据不足; original_submitted_date=2026-10-23; src=codex:01a0efea-4681-7540-b443-a75633756573#9241; evidence=JoyStrum 视频发布，描述网址为纯文本。; screenshot_reviewed=piano/docs/seo/backlinks/evidence/2026-10-23-diversified/youtube-published.png; Publish confirmation and public description screenshot identify the video and plain-text target.",
+    "history": [
+      {
+        "at": "2026-11-03T07:06:53.761Z",
+        "from": null,
+        "to": "submitted",
+        "note": "imported from 2026-11-03-consolidated.csv"
+      }
+    ],
+    "createdAt": "2026-11-03T07:06:53.761Z",
+    "updatedAt": "2026-11-05T03:24:28.532Z"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "happyclarinet",
+  "name": "Happy Clarinet",
+  "baseUrl": "https://happyclarinet.com",
+  "sitemapUrl": "https://happyclarinet.com/sitemap.xml",
+  "fallbackRoutes": [
+    "/"
+  ],
+  "viewports": [
+    "desktop",
+    "mobile"
+  ]
+}
